@@ -1,0 +1,11 @@
+Type,Model,Function,Peak Wavelength (nm),Sensitivity (A/W),Reverse Voltage (V),Package Type,Size (mm),Response Time (ns),Features,Applications
+Photodiode,PD-01,General-Purpose Photodiode,850,0.5,30,Through Hole,3x4,10,High Sensitivity, Light Detection
+Photodiode,PD-02,High-Speed Photodiode,850,0.8,60,Surface Mount,2x3,5,Fast Response Time, Optical Communications
+Photodiode,PD-03,Low Noise Photodiode,900,0.3,40,Through Hole,5x5,50,Low Noise, Precision Measurement
+Photodiode,PD-04,High Sensitivity Photodiode,940,1.0,20,Surface Mount,4x4,20,High Sensitivity, Low Light Detection
+Photodiode,PD-05,UV Photodiode,280,0.2,100,Surface Mount,3x3,15,UV Detection, UV Light Measurement
+Photodiode,PD-06,Infrared Photodiode,950,0.6,50,Through Hole,5x5,25,Infrared Detection, Remote Controls
+Photodiode,PD-07,Fast Response Photodiode,780,0.7,60,Surface Mount,2x2,2,High Speed, Data Transmission
+Photodiode,PD-08,High Efficiency Photodiode,850,0.9,30,Through Hole,4x4,30,High Efficiency, General Light Sensing
+Photodiode,PD-09,Pin Photodiode,850,1.2,60,Surface Mount,3x4,10,Pin Detection, Light Measurement
+Photodiode,PD-10,Geiger-Mode Photodiode,400,0.1,100,Through Hole,5x5,50,Geiger Mode, Radiation Detection

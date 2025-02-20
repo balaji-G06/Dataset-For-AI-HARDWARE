@@ -1,0 +1,21 @@
+Model,Type,Frequency Bands (MHz),Interface,Power Supply (V),Power Consumption (mA),Read Range (cm),Dimensions (mm),Mounting Type,Applications
+MFRC522,HF RFID,13.56,SPI/I2C,3.3-5.0,13,50,40x40,Through-Hole,Access Control, NFC
+RC522,HF RFID,13.56,SPI,3.3-5.0,13,50,40x40,Through-Hole,Access Control, Payment Systems
+PN532,HF RFID,13.56,I2C/SPI/UART,3.3-5.5,50,60,50x50,Surface Mount,NFC, Data Exchange
+RFID Reader Module,HF RFID,13.56,UART,3.3-5.0,15,70,45x45,Through-Hole,Identification, IoT
+RDM6300,LF RFID,125,UART,5.0,30,10-15,43x28,Surface Mount,Animal Tracking, Access Control
+EM-18,LF RFID,125,UART,5.0,30,10-15,43x28,Surface Mount,Access Control, RFID Systems
+ID-20,LF RFID,125,UART,5.0,30,15,45x25,Surface Mount,Access Control, Security Systems
+S50,HF RFID,13.56,I2C,3.0-5.0,20,50,45x45,Through-Hole,Access Control, NFC
+UHF RFID Reader, UHF RFID,860-960,UART,9-24,100,100,100x100,Surface Mount,Asset Tracking, Supply Chain
+Grove - 125KHz RFID Reader,LF RFID,125,UART,5.0,30,10-15,50x40,Surface Mount,Prototyping, Embedded Projects
+Grove - 13.56MHz RFID Reader,HF RFID,13.56,UART,5.0,50,60,50x40,Surface Mount,Data Exchange, IoT
+Adafruit PN532,HF RFID,13.56,I2C/SPI/UART,3.3-5.5,50,60,50x50,Surface Mount,NFC, Access Control
+SparkFun RFID Starter Kit,HF RFID,13.56,I2C/SPI/UART,3.3-5.0,50,60,50x50,Through-Hole,Learning, Prototyping
+T5577,LF RFID,125,UART,5.0,30,10-15,40x40,Surface Mount,Access Control, Proximity Systems
+Mifare Classic 1K,HF RFID,13.56,I2C,3.0-5.0,15,50,50x50,Surface Mount,Access Control, Payment Systems
+Mifare Ultralight,HF RFID,13.56,I2C,3.0-5.0,20,50,40x40,Surface Mount,Event Ticketing, Access Control
+S70,HF RFID,13.56,I2C,3.0-5.0,20,60,50x50,Surface Mount,Secure Access, Identification
+UHF R2000, UHF RFID,860-960,UART,9-24,150,120,120x120,Surface Mount,Supply Chain, Asset Management
+NFC Reader Module,HF RFID,13.56,I2C/SPI,3.3-5.0,50,60,45x45,Surface Mount,NFC, Data Exchange
+Cypress CY8CEMC,HF RFID,13.56,I2C,3.0-5.0,20,50,50x50,Through-Hole,Identification, Access Control

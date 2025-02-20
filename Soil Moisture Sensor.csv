@@ -1,0 +1,11 @@
+Type,Model,Function,Detection Range (%),Voltage (V),Current Consumption (mA),Package Type,Size (mm),Response Time (ms),Features,Applications
+Soil Moisture Sensor,FC-28,Soil Moisture Measurement,0-100,5,20,Through-Hole,60x20,200,Analog Output, Soil Moisture Detection
+Soil Moisture Sensor,YL-69,Soil Moisture Measurement,0-100,5,25,Through-Hole,75x20,200,Analog and Digital Output, Soil Moisture Monitoring
+Soil Moisture Sensor,DEWPOINT-SM1,Soil Moisture Measurement,0-100,3.3-5,15,Surface Mount,50x20,500,Digital Output, Precision Soil Moisture
+Soil Moisture Sensor,SM-213,Soil Moisture Measurement,0-100,5,10,Surface Mount,40x15,300,Low Power, Plant Care
+Soil Moisture Sensor,AM2302,Soil Moisture and Temperature,0-100,3.3-5,1.5,Surface Mount,60x30,1000,Humidity and Temperature, Environmental Sensing
+Soil Moisture Sensor,GY-21,Soil Moisture Measurement,0-100,3.3-5,20,Surface Mount,45x20,500,Analog Output, Soil and Plant Monitoring
+Soil Moisture Sensor,TSL235R,Soil Moisture Measurement,0-100,5,5,Surface Mount,20x20,200,Analog Output, High Precision
+Soil Moisture Sensor,RCWL-0516,Soil Moisture Measurement,0-100,5,8,Surface Mount,33x21,300,High Sensitivity, Agriculture and Gardening
+Soil Moisture Sensor,SR04,Soil Moisture Measurement,0-100,5,20,Surface Mount,45x20,200,Integrated Measurement, Automated Irrigation
+Soil Moisture Sensor,VL53L0X,Soil Moisture and Distance,0-100,2-3.6,20,Surface Mount,10x10,30,Distance and Moisture, Robotics and Plant Monitoring

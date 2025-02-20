@@ -1,0 +1,26 @@
+Type,Model,Function,Voltage (V),Current (A),Package Type,Number of Pins,Features,Applications
+NPN Transistor,2N2222,General-Purpose NPN Transistor,40,0.8,TO-18,3,High-Speed Switching, Signal Amplification
+NPN Transistor,2N3904,General-Purpose NPN Transistor,40,0.2,TO-92,3,Low Noise, Switching and Amplification
+NPN Transistor,BC547,General-Purpose NPN Transistor,45,0.8,TO-92,3,Low Noise, General Purpose Switching
+NPN Transistor,2N3055,Power NPN Transistor,60,15,TO-3,3,High Current and Power Handling, Power Amplifiers
+NPN Transistor,BD139,Medium Power NPN Transistor,80,1.5,TO-220,3,Medium Power Switching, Signal Amplification
+NPN Transistor,BD140,Medium Power PNP Transistor,80,1.5,TO-220,3,Medium Power Switching, Signal Amplification
+PNP Transistor,BC557,General-Purpose PNP Transistor,45,0.8,TO-92,3,Low Noise, General Purpose Switching
+PNP Transistor,2N2907,General-Purpose PNP Transistor,40,0.6,TO-92,3,Low Noise, Signal Amplification
+PNP Transistor,TIP120,Power PNP Transistor,60,5,TO-220,3,High Current, Switching and Motor Control
+Field-Effect Transistor (FET),IRF510,N-Channel MOSFET,100,5,TO-220,3,High-Speed Switching, Power Applications
+Field-Effect Transistor (FET),IRF540,N-Channel MOSFET,100,33,TO-220,3,High Power Handling, Motor Control
+Field-Effect Transistor (FET),IRLZ44N,N-Channel MOSFET,55,47,TO-220,3,Logic Level Gate Drive, Switching Applications
+Field-Effect Transistor (FET),BS170,N-Channel MOSFET,60,0.5,TO-92,3,Low Power Switching, Signal Switching
+Field-Effect Transistor (FET),2N7000,N-Channel MOSFET,60,0.2,TO-92,3,General-Purpose, Low Power Switching
+Field-Effect Transistor (FET),J310,N-Channel JFET,25,0.02,TO-92,3,Low Noise, High-Frequency Applications
+Insulated Gate Bipolar Transistor (IGBT),IRG4PC50W,IGBT,600,25,TO-3P,3,High Power Switching, Motor Drives
+Insulated Gate Bipolar Transistor (IGBT),STGW30NC60VD,IGBT,600,30,TO-220,3,High Efficiency, Power Switching
+Insulated Gate Bipolar Transistor (IGBT),FGA25N120,IGBT,1200,25,TO-3P,3,High Voltage and Current, Power Electronics
+Silicon-Controlled Rectifier (SCR),BT136,Triac,600,4,TO-220,3,Phase Control, Light Dimming and Motor Control
+Silicon-Controlled Rectifier (SCR),2N3055,Power SCR,60,15,TO-3,3,High Current and Power Handling, Power Switching
+Darlington Transistor,TIP120,Darlington NPN Transistor,60,5,TO-220,3,High Current Gain, Motor Control
+Darlington Transistor,2N2955,Darlington NPN Transistor,60,15,TO-3,3,High Power and Gain, Audio Amplifiers
+Field-Effect Transistor (FET),IRF9540,P-Channel MOSFET,100,19,TO-220,3,High Speed, Switching Applications
+Field-Effect Transistor (FET),IRLZ34N,N-Channel MOSFET,55,50,TO-220,3,Low Gate Drive Voltage, High-Power Switching
+Field-Effect Transistor (FET),BC109,NPN Transistor,30,0.1,TO-18,3,Low Noise, Low Frequency Applications

@@ -1,0 +1,25 @@
+Board,Microcontroller,Operating Voltage,Input Voltage (recommended),Input Voltage (limit),Digital I/O Pins,PWM Pins,Analog Input Pins,Analog Output Pins,Flash Memory,SRAM,EEPROM,Clock Speed,UART,I2C,SPI,USB,Length,Width,Weight
+Arduino Uno,ATmega328P,5V,7-12V,6-20V,14,6,6,1,32KB,2KB,1KB,16 MHz,1,1,1,1x USB-B,68.6mm,53.4mm,25g
+Arduino Mega 2560,ATmega2560,5V,7-12V,6-20V,54,15,16,2,256KB,8KB,4KB,16 MHz,4,1,1,1x USB-B,101.6mm,53.3mm,37g
+Arduino Due,ARM Cortex-M3,3.3V,7-12V,6-16V,54,12,12,2,512KB,96KB,None,84 MHz,4,1,1,1x USB-B,102mm,53mm,36g
+Arduino Nano,ATmega328,5V,7-12V,6-20V,22,6,8,1,32KB,2KB,1KB,16 MHz,1,1,1,1x mini-USB,45mm,18mm,7g
+Arduino Micro,ATmega32U4,5V,7-12V,6-20V,20,7,12,1,32KB,2.5KB,1KB,16 MHz,1,1,1,1x micro-USB,48mm,18mm,8g
+Arduino Leonardo,ATmega32U4,5V,7-12V,6-20V,20,7,12,1,32KB,2.5KB,1KB,16 MHz,1,1,1,1x USB-B,68.6mm,53.3mm,25g
+Arduino Mini,ATmega328,5V,7-12V,6-20V,14,6,8,1,32KB,2KB,1KB,16 MHz,1,1,1,None,30mm,18mm,5g
+Arduino Pro Mini,ATmega328,5V,7-12V,6-20V,14,6,8,1,32KB,2KB,1KB,16 MHz,1,1,1,None,33mm,18mm,5g
+Arduino MKR1000,ATSAMD21,3.3V,5V,6-12V,8,0,7,1,32KB,2KB,None,48 MHz,1,1,1,1x micro-USB,61mm,25mm,25g
+Arduino MKR WiFi 1010,ATSAMD21,3.3V,5V,6-12V,8,0,7,1,32KB,2KB,None,48 MHz,1,1,1,1x micro-USB,61mm,25mm,25g
+Arduino MKR GSM 1400,ATSAMD21,3.3V,5V,6-12V,8,0,7,1,32KB,2KB,None,48 MHz,1,1,1,1x micro-USB,61mm,25mm,30g
+Arduino Zero,ATSAMD21,3.3V,7-12V,6-16V,20,6,6,1,256KB,32KB,None,48 MHz,1,1,1,1x micro-USB,68.6mm,53.3mm,24g
+Arduino Esplora,ATmega32U4,5V,7-12V,6-20V,15,4,6,1,32KB,2.5KB,1KB,16 MHz,1,1,1,1x USB-B,101.6mm,60mm,70g
+Arduino LilyPad,ATmega328,5V,7-12V,6-20V,14,6,6,0,32KB,2KB,1KB,16 MHz,1,1,1,None,50mm,50mm,10g
+Arduino Ethernet,ATmega328,5V,7-12V,6-20V,14,6,6,1,32KB,2KB,1KB,16 MHz,1,1,1,1x RJ45,68.6mm,53.4mm,25g
+Arduino Yún,ATmega32U4 & Atheros AR9331,5V,7-12V,6-20V,20,7,12,1,32KB,2.5KB,1KB,16 MHz,1,1,1,1x USB-B,68.6mm,53.4mm,30g
+Arduino GIGA R1 WiFi,ATmega4809,5V,7-12V,6-20V,54,15,16,2,256KB,32KB,None,16 MHz,1,1,1,1x USB-C,106mm,55mm,40g
+Arduino Fio,ATmega328,5V,7-12V,6-20V,14,6,6,1,32KB,2KB,1KB,16 MHz,1,1,1,None,43mm,43mm,12g
+Arduino RedBoard,ATmega328,5V,7-12V,6-20V,14,6,6,1,32KB,2KB,1KB,16 MHz,1,1,1,1x USB-B,68.6mm,53.4mm,25g
+Arduino Tre,ATmega32U4 & ARM Cortex-A8,5V,7-12V,6-20V,54,12,16,2,256KB,8KB,4KB,16 MHz,4,1,1,1x USB-B,102mm,53mm,37g
+Arduino MKR WAN 1300,ATSAMD21,3.3V,5V,6-12V,8,0,7,1,32KB,2KB,None,48 MHz,1,1,1,1x micro-USB,61mm,25mm,25g
+Arduino Nano Every,ATmega4809,5V,7-12V,6-20V,14,6,8,1,48KB,6KB,None,20 MHz,1,1,1,1x micro-USB,45mm,18mm,7g
+Arduino Nano 33 IoT,ATSAMD21 & u-blox NINA-W102,3.3V,5V,6-12V,22,11,8,1,32KB,2KB,None,48 MHz,1,1,1,1x micro-USB,45mm,18mm,7g
+Arduino Shields,Various,5V,7-12V,6-20V,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A

@@ -1,0 +1,13 @@
+Type,Model,Function,Detection Angle (°),Voltage (V),Current Consumption (mA),Package Type,Size (mm),Response Time (ms),Features,Applications
+Tilt Sensor,Mercury Tilt Switch,Position Detection,0-180,5,10,Through-Hole,10x5,100,Simple On/Off, Tilt Detection
+Tilt Sensor,Ball Tilt Switch,Position Detection,0-180,3.3-5,5,Through-Hole,15x6,50,Compact Size, Motion Detection
+Tilt Sensor,SW-520D,Position Detection,0-180,3.3-5,5,Through-Hole,14x5,100,High Sensitivity, Orientation Sensing
+Tilt Sensor,RPI-1031,Position Detection,0-90,3.3-5,2,Surface Mount,7x4,10,Digital Output, Angle Detection
+Tilt Sensor,MMA8452Q,Accelerometer,0-360,1.95-3.6,165,Surface Mount,3x3,1000,3-Axis, Motion Sensing
+Tilt Sensor,BMA220,Accelerometer,0-360,1.8-3.6,200,Surface Mount,2x2,500,3-Axis, High Precision Tilt
+Tilt Sensor,ADXL335,Accelerometer,0-360,1.8-3.6,350,Surface Mount,4x4,1000,3-Axis, Analog Output, Tilt and Motion Detection
+Tilt Sensor,BMA400,Accelerometer,0-360,1.8-3.6,14,Surface Mount,2x2,500,3-Axis, Low Power, Wearable Devices
+Tilt Sensor,MPU-6050,Accelerometer and Gyroscope,0-360,2.3-3.4,500,Surface Mount,4x4,1000,6-Axis, Motion Tracking
+Tilt Sensor,SCA61T,Inclination Sensor,0-180,4.75-5.25,8,Surface Mount,17x9,50,High Accuracy, Industrial Applications
+Tilt Sensor,SCA100T,Inclination Sensor,0-180,3.0-3.6,3,Surface Mount,17x9,50,Digital Output, Precise Tilt Measurement
+Tilt Sensor,D7E-1,Position Detection,0-180,5,1,Through-Hole,9x7,100,Mechanical Switch, Basic Tilt Sensing

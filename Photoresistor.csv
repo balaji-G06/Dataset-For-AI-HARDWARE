@@ -1,0 +1,11 @@
+Type,Model,Function,Resistance Range (Ω),Light Range (Lux),Package Type,Size (mm),Response Time (ms),Features,Applications
+Photoresistor,GL5516,General-Purpose LDR,5k-50k,0-10k,Through Hole,5x10,60,High Sensitivity, Light Sensing
+Photoresistor,GL5528,General-Purpose LDR,10k-100k,0-20k,Through Hole,5x10,60,Wide Light Range, Light Sensing
+Photoresistor,NSL-19-216,High-Sensitivity LDR,2k-20k,0-5k,Through Hole,5x10,10,High Sensitivity, Low Light Detection
+Photoresistor,NSL-32-217,Medium-Sensitivity LDR,5k-50k,0-10k,Through Hole,5x10,20,Medium Sensitivity, Light Sensing
+Photoresistor,GL5539,Low-Sensitivity LDR,50k-200k,0-50k,Through Hole,5x10,100,Low Sensitivity, High Light Detection
+Photoresistor,PDV-P8004,Phototransistor,10k-100k,0-10k,Surface Mount,3x6,50,Phototransistor Function, Light Detection
+Photoresistor,TSL2571,Digital LDR,10k-100k,0-100k,Surface Mount,4x4,500,Digital Output, High Precision Light Measurement
+Photoresistor,ADPD144RI,Integrated Light Sensor,100k-500k,0-200k,Surface Mount,3x3,300,Integrated Sensor, High Precision
+Photoresistor,TEPT5600,High-Precision LDR,1k-10k,0-5k,Surface Mount,5x5,25,High Precision, Low Light Detection
+Photoresistor,LS-3,General-Purpose LDR,10k-100k,0-20k,Through Hole,5x10,60,Wide Light Range, General Light Sensing

@@ -1,0 +1,24 @@
+Type,Model,Number of Positions,Current Rating (A),Voltage Rating (V),Contact Material,Mounting Type,Size (mm),Actuator Type,Terminal Type,Contact Resistance (Ohms),Features
+Slide Switch,SS-12D00,2,0.5,12,Silver,Through-Hole,10x6x5,Plastic,Pin,0.1,Standard 2-position
+Slide Switch,SS-22D00,3,0.5,12,Silver,Through-Hole,12x8x6,Plastic,Pin,0.1,3-position
+Slide Switch,SS-32D00,4,0.5,12,Silver,Surface-Mount,14x10x6,Plastic,Pin,0.1,4-position
+Slide Switch,SS-12D01,2,1,24,Gold,Surface-Mount,10x6x5,Metal,Pin,0.05,2-position, high-current
+Slide Switch,SS-22D01,3,1,24,Gold,Through-Hole,12x7x6,Metal,Pin,0.05,3-position, high-current
+Slide Switch,SS-32D01,4,1,24,Gold,Through-Hole,16x10x7,Metal,Pin,0.05,4-position, high-current
+Slide Switch,SS-12D02,2,0.5,12,Gold,Through-Hole,8x6x4,Plastic,Pin,0.1,Compact 2-position
+Slide Switch,SS-22D02,4,2,30,Silver,Surface-Mount,15x10x6,Plastic,Pin,0.05,4-position, high-current
+Slide Switch,SS-32D02,3,2,24,Silver,Through-Hole,14x8x7,Metal,Pin,0.05,3-position, high-current
+Slide Switch,SS-22D03,3,0.5,12,Gold,Surface-Mount,12x7x5,Plastic,Pin,0.1,3-position, compact
+Slide Switch,SS-32D03,3,1,24,Gold,Through-Hole,16x9x7,Metal,Pin,0.05,3-position, high-current
+Slide Switch,SS-42D01,4,2,30,Gold,Surface-Mount,18x10x8,Metal,Pin,0.05,4-position, high-current
+Slide Switch,SS-12D03,4,0.5,12,Gold,Surface-Mount,12x8x6,Plastic,Pin,0.1,4-position, compact
+Slide Switch,SS-22D04,2,1,12,Silver,Surface-Mount,9x5x5,Plastic,Pin,0.1,2-position, space-saving
+Slide Switch,SS-32D04,4,1,24,Gold,Through-Hole,16x10x8,Metal,Pin,0.05,4-position, standard
+Slide Switch,SS-12D04,2,1,12,Silver,Through-Hole,8x5x5,Plastic,Pin,0.1,2-position, standard
+Slide Switch,SS-22D05,2,2,30,Silver,Surface-Mount,10x6x5,Plastic,Pin,0.1,2-position, high-current
+Slide Switch,SS-22D06,3,1,24,Gold,Surface-Mount,14x8x6,Plastic,Pin,0.1,3-position, compact
+Slide Switch,SS-32D05,4,2,30,Gold,Surface-Mount,18x10x8,Metal,Pin,0.05,4-position, high-current
+Slide Switch,SS-12D05,2,2,30,Gold,Surface-Mount,10x6x6,Plastic,Pin,0.1,2-position, high-current
+Slide Switch,SS-22D07,3,1,30,Silver,Through-Hole,12x7x5,Plastic,Pin,0.05,3-position, high-current
+Slide Switch,SS-32D06,4,2,30,Gold,Surface-Mount,18x10x8,Metal,Pin,0.05,4-position, high-current
+Slide Switch,SS-12D06,2,1,24,Gold,Surface-Mount,11x6x5,Plastic,Pin,0.1,2-position, standard

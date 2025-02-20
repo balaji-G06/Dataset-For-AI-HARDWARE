@@ -1,0 +1,22 @@
+Button Type,Button Style,Actuation Type,Contact Configuration,Mounting Type,Operating Force (gf),Travel Distance (mm),Electrical Rating,Life Cycle,Size (mm),Material Composition,Color,LED Indicator
+Standard Push Button,Round,Momentary,SPST,Through-Hole,150,1.5,3A @ 250V AC,50000,10x10x3,Plastic,Red,No
+Standard Push Button,Square,Locking,DPDT,Surface-Mount,200,2.0,5A @ 250V AC,100000,12x12x5,Plastic,Black,No
+Micro Push Button,Round,Momentary,SPST,Surface-Mount,50,0.25,50mA @ 12V DC,100000,6x6x5,Metal,Silver,No
+Micro Push Button,Square,Locking,DPDT,Through-Hole,75,0.3,50mA @ 24V DC,200000,6x6x3.5,Metal,Silver,No
+Tactile Push Button,Round,Momentary,SPST,Through-Hole,160,0.5,50mA @ 12V DC,1000000,6x6x1.5,Plastic,Blue,No
+Tactile Push Button,Square,Locking,SPDT,Surface-Mount,180,0.6,50mA @ 24V DC,500000,6x6x3.5,Plastic,Black,No
+Panel Mount Push Button,Round,Momentary,SPDT,Panel Mount,250,2.5,10A @ 250V AC,50000,16x16x20,Metal,Red,Yes
+Panel Mount Push Button,Square,Locking,DPDT,Panel Mount,300,3.0,10A @ 250V AC,100000,19x19x22,Metal,Black,Yes
+Waterproof Push Button,Round,Momentary,SPST,Panel Mount,200,1.5,3A @ 250V AC,50000,12x12x18,Plastic,Green,No
+Waterproof Push Button,Square,Locking,DPDT,Panel Mount,250,2.0,5A @ 250V AC,100000,14x14x20,Plastic,Black,No
+Illuminated Push Button,Round,Momentary,SPDT,Panel Mount,150,1.5,2A @ 24V DC,50000,16x16x20,Plastic,Red,Yes
+Illuminated Push Button,Square,Locking,DPDT,Panel Mount,200,2.0,2A @ 24V DC,100000,19x19x22,Plastic,Blue,Yes
+Capacitive Touch Button,Flat,Touch,SPST,Surface-Mount,N/A,N/A,50mA @ 5V DC,500000,N/A,Plastic,White,No
+Capacitive Touch Button,Flat,Touch,SPDT,Panel Mount,N/A,N/A,50mA @ 5V DC,500000,N/A,Plastic,Black,Yes
+Rotary Push Button,Round,Rotary/Momentary,SPDT,Panel Mount,100,3.0,1A @ 24V DC,100000,20x20x25,Plastic,Black,No
+Membrane Push Button,Flat,Momentary,SPST,Surface-Mount,N/A,N/A,50mA @ 12V DC,100000,N/A,Polyester,Transparent,No
+DIP Switch,Flat,Momentary,SPST,Through-Hole,N/A,N/A,25mA @ 24V DC,50000,N/A,Plastic,Black,No
+Slide Switch,Flat,Locking,SPDT,Surface-Mount,N/A,N/A,50mA @ 12V DC,100000,N/A,Plastic,Black,No
+Toggle Switch,Round,Locking,DPDT,Panel Mount,200,2.0,3A @ 125V AC,50000,10x10x20,Metal,Silver,No
+Rocker Switch,Flat,Locking,DPDT,Panel Mount,300,2.5,5A @ 250V AC,100000,15x10x25,Plastic,Black,No
+Soft Touch Button,Round,Momentary,SPST,Surface-Mount,50,0.3,10mA @ 5V DC,100000,8x8x2,Silicone,White,No

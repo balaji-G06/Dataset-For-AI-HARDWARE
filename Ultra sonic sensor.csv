@@ -1,0 +1,11 @@
+Type,Model,Function,Detection Range (m),Frequency (kHz),Voltage (V),Current Consumption (mA),Package Type,Size (mm),Response Time (ms),Features,Applications
+Ultrasonic Sensor,HC-SR04,Distance Measurement,2-4,40,5,15,Surface Mount,45x20,100,Low Cost, Object Distance Measurement
+Ultrasonic Sensor,JSN-SR04T,Distance Measurement,0.2-4.5,40,5,30,Surface Mount,47x24,200,Waterproof, Outdoor Distance Measurement
+Ultrasonic Sensor,MaxBotix MB1010,Distance Measurement,0.15-6,42,5,20,Surface Mount,30x20,50,High Resolution, Robotics and Obstacles
+Ultrasonic Sensor,LV-MaxSonar-EZ4,Distance Measurement,0-5,42,5,30,Surface Mount,33x20,50,Long Range, High Precision Distance Sensing
+Ultrasonic Sensor,GP2Y0A21YK0F,Distance Measurement,10-80,40,4.5-5.5,30,Surface Mount,29x13,40,Short Range, Object Detection
+Ultrasonic Sensor,HC-SR05,Distance Measurement,2-12,40,5,20,Surface Mount,50x25,100,Extended Range, Versatile Distance Measurement
+Ultrasonic Sensor,MaxBotix MB1240,Distance Measurement,0.3-5,40,5,20,Surface Mount,33x20,100,High Precision, Environmental Sensing
+Ultrasonic Sensor,MB1242,Distance Measurement,0.2-5,40,5,20,Surface Mount,33x20,100,Long Range, High Accuracy Measurement
+Ultrasonic Sensor,SRF05,Distance Measurement,0.2-4,40,5,20,Surface Mount,45x20,100,Versatile, Object Detection and Measurement
+Ultrasonic Sensor,HC-SR07,Distance Measurement,2-10,40,5,15,Surface Mount,45x20,100,Extended Range, Distance Sensing

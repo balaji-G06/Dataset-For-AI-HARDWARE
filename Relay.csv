@@ -1,0 +1,32 @@
+Type,Model,Function,Coil Voltage (V),Contact Configuration,Current Rating (A),Package Type,Number of Pins,Features,Applications
+Electromechanical Relay,SRD-05VDC-SL-C,General-Purpose Relay,5,SPDT (Single Pole Double Throw),10,PCB,5,Compact Size, General Switching
+Electromechanical Relay,SRD-12VDC-SL-C,General-Purpose Relay,12,SPDT (Single Pole Double Throw),10,PCB,5,Compact Size, General Switching
+Electromechanical Relay,SRD-24VDC-SL-C,General-Purpose Relay,24,SPDT (Single Pole Double Throw),10,PCB,5,Compact Size, General Switching
+Electromechanical Relay,HEB-3VDC-SL,Miniature Relay,3,SPST (Single Pole Single Throw),5,PCB,4,Low Coil Voltage, Low Power Applications
+Electromechanical Relay,HEB-5VDC-SL,Miniature Relay,5,SPST (Single Pole Single Throw),5,PCB,4,Low Coil Voltage, Low Power Applications
+Electromechanical Relay,HEB-12VDC-SL,Miniature Relay,12,SPST (Single Pole Single Throw),5,PCB,4,Low Coil Voltage, Low Power Applicati
+Solid State Relay,SSR-25DA,AC Solid State Relay,24-380,SPST (Single Pole Single Throw),25,PCB,4,High-Speed Switching, AC Power Control
+Solid State Relay,SSR-40DA,AC Solid State Relay,24-380,SPST (Single Pole Single Throw),40,PCB,4,High Power Handling, AC Power Control
+Solid State Relay,SSR-1DA,DC Solid State Relay,3-32,SPST (Single Pole Single Throw),1,PCB,4,Low Power Applications, DC Switching
+Solid State Relay,SSR-10DC,DC Solid State Relay,3-32,SPST (Single Pole Single Throw),10,PCB,4,Medium Power Applications, DC Switching
+Relay Module,5V Relay Module,Relay Module for Arduino,5,SPDT (Single Pole Double Throw),10,PCB,12,Multiple Relays, Arduino Projects
+Relay Module,12V Relay Module,Relay Module for Arduino,12,SPDT (Single Pole Double Throw),10,PCB,12,Multiple Relays, Arduino Projects
+Relay Module,24V Relay Module,Relay Module for Arduino,24,SPDT (Single Pole Double Throw),10,PCB,12,Multiple Relays, Arduino Projects
+Automotive Relay,JK-1P-12V,Automotive Relay,12,SPST (Single Pole Single Throw),30,PCB,4,High Current, Automotive Applications
+Automotive Relay,JK-1P-24V,Automotive Relay,24,SPST (Single Pole Single Throw),30,PCB,4,High Current, Automotive Applications
+Power Relay,MY4N-D2,Power Relay,12,DPDT (Double Pole Double Throw),10,PCB,8,High Power Handling, Industrial Automation
+Power Relay,MY4N-D24,Power Relay,24,DPDT (Double Pole Double Throw),10,PCB,8,High Power Handling, Industrial Automation
+Mini Relay,G5LE-1 12V,Miniature Relay,12,SPDT (Single Pole Double Throw),10,PCB,5,Compact Size, Low Power Applications
+Mini Relay,G5LE-1 24V,Miniature Relay,24,SPDT (Single Pole Double Throw),10,PCB,5,Compact Size, Low Power Applications
+Timing Relay,FX3U-64MT/ES,Timing Relay with Adjustable Delay,24,SPDT (Single Pole Double Throw),10,PCB,8,Adjustable Timing, Automation
+Timing Relay,MY2N-DC24,Timing Relay,24,DPDT (Double Pole Double Throw),10,PCB,8,Adjustable Timing, Industrial Applications
+High Voltage Relay,ARV-12V,High Voltage Relay,12,SPST (Single Pole Single Throw),10,PCB,5,High Voltage Handling, High Voltage Switching
+High Voltage Relay,ARV-24V,High Voltage Relay,24,SPST (Single Pole Single Throw),10,PCB,5,High Voltage Handling, High Voltage Switching
+High Current Relay,RM-11-1-12V,High Current Relay,12,SPST (Single Pole Single Throw),50,PCB,4,High Current Handling, Power Applications
+High Current Relay,RM-11-1-24V,High Current Relay,24,SPST (Single Pole Single Throw),50,PCB,4,High Current Handling, Power Applications
+Signal Relay,DR-12V,Signal Relay,12,SPDT (Single Pole Double Throw),1,PCB,5,Low Current, Signal Switching
+Signal Relay,DR-24V,Signal Relay,24,SPDT (Single Pole Double Throw),1,PCB,5,Low Current, Signal Switching
+Safety Relay,PRC-12V,Industrial Safety Relay,12,SPDT (Single Pole Double Throw),10,PCB,8,High Reliability, Safety Systems
+Safety Relay,PRC-24V,Industrial Safety Relay,24,SPDT (Single Pole Double Throw),10,PCB,8,High Reliability, Safety Systems
+Latching Relay,LA-24V,Latching Relay,24,SPDT (Single Pole Double Throw),10,PCB,5,Memory Function, Power Switching
+Latching Relay,LA-12V,Latching Relay,12,SPDT (Single Pole Double Throw),10,PCB,5,Memory Function, Power Switching

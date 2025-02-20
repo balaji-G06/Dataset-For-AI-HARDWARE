@@ -1,0 +1,21 @@
+Type,Resistance (Ohms),Tolerance (%),Power Rating (W),Adjustment Type,Mounting Type,Shaft Type,Shaft Length (mm),Terminal Type,Size (mm),Material Composition,Temperature Coefficient (ppm/°C)
+Rotary,1K,5,0.25,Rotary,Through-Hole,Knurled,15,Pin,10x10x5,Carbon Film,100
+Rotary,10K,10,0.5,Rotary,Surface-Mount,Slotted,20,Pin,12x12x6,Carbon Film,200
+Rotary,100K,5,1,Rotary,Panel Mount,Knurled,25,Pin,16x16x8,Wire Wound,50
+Rotary,1M,10,2,Rotary,Through-Hole,Slotted,30,Pin,20x20x10,Cermet,100
+Linear,1K,5,0.1,Slide,Through-Hole,N/A,N/A,Pin,30x10x5,Carbon Film,150
+Linear,10K,10,0.2,Slide,Surface-Mount,N/A,N/A,Pin,40x12x6,Carbon Film,250
+Linear,100K,5,0.5,Slide,Panel Mount,N/A,N/A,Pin,50x16x8,Wire Wound,100
+Linear,1M,10,1,Slide,Through-Hole,N/A,N/A,Pin,60x20x10,Cermet,200
+Trimmer,1K,20,0.1,Multi-turn,Through-Hole,Slotted,10,Pin,5x5x2.5,Cermet,100
+Trimmer,10K,10,0.2,Multi-turn,Surface-Mount,Slotted,10,Pin,6x6x3,Cermet,150
+Trimmer,100K,20,0.5,Multi-turn,Panel Mount,Slotted,10,Pin,7x7x3.5,Carbon Film,250
+Trimmer,1M,10,1,Multi-turn,Through-Hole,Slotted,10,Pin,8x8x4,Wire Wound,100
+Precision,1K,1,0.25,Rotary,Through-Hole,Knurled,15,Pin,10x10x5,Wire Wound,50
+Precision,10K,1,0.5,Rotary,Surface-Mount,Slotted,20,Pin,12x12x6,Wire Wound,100
+Precision,100K,1,1,Rotary,Panel Mount,Knurled,25,Pin,16x16x8,Wire Wound,50
+Precision,1M,1,2,Rotary,Through-Hole,Slotted,30,Pin,20x20x10,Wire Wound,100
+Digital,1K,1,0.25,Rotary,Surface-Mount,Knurled,15,Pin,10x10x5,Carbon Film,100
+Digital,10K,1,0.5,Rotary,Through-Hole,Slotted,20,Pin,12x12x6,Carbon Film,200
+Digital,100K,1,1,Rotary,Panel Mount,Knurled,25,Pin,16x16x8,Wire Wound,50
+Digital,1M,1,2,Rotary,Surface-Mount,Slotted,30,Pin,20x20x10,Cermet,100

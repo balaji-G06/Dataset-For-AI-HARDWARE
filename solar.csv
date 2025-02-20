@@ -1,0 +1,15 @@
+Type,Model,Function,Power Rating (W),Voltage (V),Current (A),Dimensions (mm),Efficiency (%),Package Type,Features,Applications
+Solar Panel,SP-6V-1W,Small Solar Panel,1,6,0.17,70x70,20,Flexible,High Efficiency, Low Power Projects
+Solar Panel,SP-12V-5W,Medium Solar Panel,5,12,0.42,200x200,18,Rigid,Weather-Resistant, General Outdoor Use
+Solar Panel,SP-18V-10W,Large Solar Panel,10,18,0.56,300x200,17,Rigid,High Power Output, Off-Grid Systems
+Solar Battery,LiPo 3.7V 1000mAh,Rechargeable Battery,3.7V,1,1000mAh,60x30x5,High Capacity,Rechargeable, Portable Power Storage
+Solar Battery,Li-ion 3.7V 2200mAh,Rechargeable Battery,3.7V,2.2,2200mAh,75x50x10,High Capacity,Rechargeable, High Power Devices
+Solar Battery,Lead Acid 12V 7Ah,Rechargeable Battery,12V,7,7Ah,150x100x95,Durable,Long Life, Solar Power Backup
+Solar Charger,Solar Charger Module 5V,Charging Module,5V,1A,Compact Size,High Efficiency,Low Power Charging, Small Solar Devices
+Solar Charger,Solar Charger Module 12V,Charging Module,12V,1.5A,Compact Size,High Efficiency,Medium Power Charging, General Solar Projects
+Solar Charge Controller,12V 10A Charge Controller,Regulator,12V,10A,Compact,Protects Battery,Overcharge Protection, Solar Battery Management
+Solar Charge Controller,24V 20A Charge Controller,Regulator,24V,20A,Compact,Protects Battery,Overcharge Protection, High Power Solar Systems
+Solar Panel Mounting,Mounting Bracket for Panels,Mounting,Adjustable,N/A,Durable,Weather-Resistant, Easy Installation, Solar Panel Setup
+Solar Panel Mounting,Adjustable Solar Panel Stand,Stand,Adjustable,N/A,Sturdy,Flexible Angling, Optimal Sunlight Capture, Solar Installations
+Solar Tracker,Single-Axis Solar Tracker,Tracking,Motorized,N/A,Adjustable,Maximize Sun Exposure, Improved Efficiency, Solar Panel Optimization
+Solar Tracker,Dual-Axis Solar Tracker,Tracking,Motorized,N/A,Adjustable,Maximize Sun Exposure, Improved Efficiency, Advanced Solar Systems

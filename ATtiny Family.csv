@@ -1,0 +1,28 @@
+Board,Microcontroller,Operating Voltage,Input Voltage (recommended),Input Voltage (limit),Digital I/O Pins,PWM Pins,Analog Input Pins,Analog Output Pins,Flash Memory,SRAM,EEPROM,Clock Speed,UART,I2C,SPI,USB,Length,Width,Weight
+ATtiny13 Breakout Board,ATtiny13,3.3V,5V,6V,5,0,4,0,1KB,64B,64B,9.6 MHz,1,0,0,None,50mm,25mm,15g
+ATtiny13 Development Board,ATtiny13,3.3V,5V,6V,5,0,4,0,1KB,64B,64B,9.6 MHz,1,0,0,None,60mm,30mm,20g
+ATtiny85 Breakout Board,ATtiny85,3.3V,5V,6V,6,0,4,0,8KB,512B,512B,8 MHz,1,0,0,None,50mm,25mm,15g
+ATtiny85 Development Board,ATtiny85,3.3V,5V,6V,6,0,4,0,8KB,512B,512B,8 MHz,1,0,0,None,60mm,30mm,20g
+ATtiny85 Digispark Clone,ATtiny85,5V,5V,6V,6,0,4,0,8KB,512B,512B,16 MHz,1,0,0,Micro-USB,30mm,15mm,10g
+ATtiny85 Digispark Pro,ATtiny85,5V,5V,6V,6,0,4,0,8KB,512B,512B,16 MHz,1,0,0,Micro-USB,30mm,15mm,10g
+ATtiny84 Breakout Board,ATtiny84,3.3V,5V,6V,12,8,6,1,8KB,512B,512B,20 MHz,1,0,0,None,50mm,30mm,20g
+ATtiny84 Development Board,ATtiny84,3.3V,5V,6V,12,8,6,1,8KB,512B,512B,20 MHz,1,0,0,None,60mm,40mm,25g
+ATtiny2313 Development Board,ATtiny2313,3.3V,5V,6V,18,8,14,1,2KB,128B,128B,20 MHz,2,0,1,None,60mm,30mm,25g
+ATtiny841 Breakout Board,ATtiny841,3.3V,5V,6V,20,12,16,2,8KB,512B,512B,20 MHz,2,0,1,None,60mm,40mm,30g
+ATtiny841 Development Board,ATtiny841,3.3V,5V,6V,20,12,16,2,8KB,512B,512B,20 MHz,2,0,1,None,70mm,50mm,35g
+ATtiny1634 Breakout Board,ATtiny1634,3.3V,5V,6V,20,16,16,2,16KB,1KB,1KB,20 MHz,2,0,1,None,70mm,50mm,35g
+ATtiny1634 Development Board,ATtiny1634,3.3V,5V,6V,20,16,16,2,16KB,1KB,1KB,20 MHz,2,0,1,None,80mm,60mm,40g
+ATtiny167 Digispark Pro,ATtiny167,5V,5V,6V,12,8,14,1,16KB,512B,512B,16 MHz,1,0,0,Micro-USB,30mm,15mm,10g
+ATtiny88 Development Board,ATtiny88,3.3V,5V,6V,14,8,8,1,8KB,512B,512B,20 MHz,1,0,1,None,60mm,30mm,25g
+ATtiny861 Breakout Board,ATtiny861,3.3V,5V,6V,32,8,12,2,16KB,1KB,1KB,20 MHz,2,0,1,None,70mm,50mm,35g
+ATtiny861 Development Board,ATtiny861,3.3V,5V,6V,32,8,12,2,16KB,1KB,1KB,20 MHz,2,0,1,None,80mm,60mm,40g
+ATtiny43U Development Board,ATtiny43U,3.3V,5V,6V,20,8,8,1,16KB,1KB,1KB,20 MHz,2,0,1,None,60mm,30mm,25g
+SparkFun Pro Micro - ATtiny85,ATtiny85,5V,5V,6V,12,5,8,0,8KB,512B,512B,16 MHz,1,0,0,Micro-USB,30mm,15mm,10g
+SparkFun Digispark (ATtiny85),ATtiny85,5V,5V,6V,12,5,8,0,8KB,512B,512B,16 MHz,1,0,0,Micro-USB,30mm,15mm,10g
+SparkFun Digispark Pro (ATtiny167),ATtiny167,5V,5V,6V,12,8,14,1,16KB,512B,512B,16 MHz,1,0,0,Micro-USB,30mm,15mm,10g
+Adafruit Trinket (ATtiny85),ATtiny85,5V,5V,6V,8,0,5,0,8KB,512B,512B,8 MHz,1,0,0,Micro-USB,30mm,15mm,10g
+Adafruit Gemma (ATtiny85),ATtiny85,5V,5V,6V,8,0,5,0,8KB,512B,512B,8 MHz,1,0,0,Micro-USB,30mm,15mm,10g
+Olimex MOD-XMEGA-EVB (ATtiny84),ATtiny84,3.3V,5V,6V,12,8,6,1,8KB,512B,512B,20 MHz,1,0,1,None,60mm,30mm,25g
+Olimex MOD-XMEGA-PROTO (ATtiny84),ATtiny84,3.3V,5V,6V,12,8,6,1,8KB,512B,512B,20 MHz,1,0,1,None,60mm,30mm,25g
+Arduino Uno (ATtiny84),ATtiny84,5V,5V,6V,14,8,8,1,8KB,512B,512B,16 MHz,1,0,1,None,70mm,30mm,30g
+Arduino Nano (ATtiny84),ATtiny84,5V,5V,6V,14,8,8,1,8KB,512B,512B,16 MHz,1,0,1,None,70mm,30mm,30g

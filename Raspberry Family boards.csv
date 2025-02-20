@@ -1,0 +1,24 @@
+Board,Processor,Operating Voltage,Input Voltage (recommended),Input Voltage (limit),Digital I/O Pins,PWM Pins,Analog Input Pins,Analog Output Pins,Flash Memory,SDRAM,EEPROM,Clock Speed,UART,I2C,SPI,USB,Length,Width,Weight
+Raspberry Pi 5,Broadcom BCM2712,5V,5V,5.25V,40,2,0,0,Varies,4GB/8GB,None,2.0 GHz,2,1,1,2x USB 3.0,85mm,56mm,46g
+Raspberry Pi 4 Model B,Broadcom BCM2711,5V,5V,5.25V,40,2,0,0,Varies,2GB/4GB/8GB,None,1.5 GHz,2,1,1,2x USB 3.0,85mm,56mm,46g
+Raspberry Pi 3 Model B+,Broadcom BCM2837B0,5V,5V,5.25V,40,2,0,0,Varies,1GB,None,1.4 GHz,1,1,1,4x USB 2.0,85mm,56mm,50g
+Raspberry Pi 3 Model A+,Broadcom BCM2837B0,5V,5V,5.25V,40,2,0,0,Varies,512MB,None,1.4 GHz,1,1,1,1x USB 2.0,65mm,56mm,29g
+Raspberry Pi 2 Model B,Broadcom BCM2836,5V,5V,5.25V,40,2,0,0,Varies,1GB,None,900 MHz,1,1,1,4x USB 2.0,85mm,56mm,45g
+Raspberry Pi 1 Model B+,Broadcom BCM2835,5V,5V,5.25V,40,2,0,0,Varies,512MB,None,700 MHz,1,1,1,4x USB 2.0,85mm,56mm,45g
+Raspberry Pi 1 Model A+,Broadcom BCM2835,5V,5V,5.25V,40,2,0,0,Varies,256MB/512MB,None,700 MHz,1,1,1,1x USB 2.0,65mm,56mm,23g
+Raspberry Pi Zero,Broadcom BCM2835,5V,5V,5.25V,40,2,0,0,Varies,512MB,None,1 GHz,1,1,1,1x micro-USB,65mm,30mm,9g
+Raspberry Pi Zero W,Broadcom BCM2835,5V,5V,5.25V,40,2,0,0,Varies,512MB,None,1 GHz,1,1,1,1x micro-USB,65mm,30mm,9g
+Raspberry Pi Zero WH,Broadcom BCM2835,5V,5V,5.25V,40,2,0,0,Varies,512MB,None,1 GHz,1,1,1,1x micro-USB,65mm,30mm,9g
+Raspberry Pi Zero 2 W,Broadcom BCM2710A1,5V,5V,5.25V,40,2,0,0,Varies,512MB,None,1 GHz,1,1,1,1x micro-USB,65mm,30mm,9g
+Raspberry Pi Pico,RP2040,3.3V,1.8V-5.5V,1.8V-5.5V,26,16,3,0,None,264KB,None,133 MHz,2,2,2,None,51mm,21mm,4g
+Raspberry Pi Pico W,RP2040,3.3V,1.8V-5.5V,1.8V-5.5V,26,16,3,0,None,264KB,None,133 MHz,2,2,2,None,51mm,21mm,4g
+Raspberry Pi 400,Broadcom BCM2711,5V,5V,5.25V,78,2,0,0,Varies,4GB,None,1.8 GHz,1,1,1,2x USB 3.0,286mm,122mm,385g
+Raspberry Pi Compute Module 3,Broadcom BCM2837,5V,5V,5.25V,28,2,0,0,Varies,1GB,None,1.2 GHz,2,2,2,None,55mm,40mm,8g
+Raspberry Pi Compute Module 4,Broadcom BCM2711,5V,5V,5.25V,28,2,0,0,Varies,1GB/2GB/4GB/8GB,None,1.5 GHz,2,2,2,None,55mm,40mm,8g
+Raspberry Pi Debug Probe,None,5V,5V,5.25V,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,56mm,24mm,10g
+Raspberry Pi M.2 HAT+,None,5V,5V,5.25V,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,56mm,40mm,10g
+Raspberry Pi AI Kit,None,5V,5V,5.25V,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,150mm,100mm,500g
+Sense HAT,None,5V,5V,5.25V,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,65mm,56mm,30g
+PoE+ HAT,None,5V,5V,5.25V,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,65mm,56mm,30g
+Raspberry Pi TV HAT,None,5V,5V,5.25V,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,65mm,56mm,30g
+Raspberry Pi DAC+,None,5V,5V,5.25V,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,65mm,56mm,30g

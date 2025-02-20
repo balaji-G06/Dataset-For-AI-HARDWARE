@@ -1,0 +1,11 @@
+Type,Model,Function,Detection Range (m),Detection Angle (°),Voltage (V),Current Consumption (mA),Package Type,Size (mm),Response Time (ms),Features,Applications
+PIR Sensor,HC-SR501,Motion Detection,7,120,5,60,Surface Mount,32x24,1000,Adjustable Sensitivity, Security Systems
+PIR Sensor,HC-SR505,Motion Detection,6,100,5,60,Surface Mount,30x24,1000,Compact Design, Motion Sensing
+PIR Sensor,AM312,Motion Detection,6,100,5,15,Surface Mount,24x16,200,Low Power, Energy-Efficient Applications
+PIR Sensor,RCWL-0516,Motion Detection,7,90,5,8,Surface Mount,33x21,200,High Sensitivity, Motion Detection
+PIR Sensor,IS312,Motion Detection,8,120,5,50,Surface Mount,35x30,500,Wide Detection Angle, Security and Automation
+PIR Sensor,MLX90614,Temperature Sensing,10,70,3.3-5,1,Surface Mount,22x22,100,IR Temperature Sensing, Human Detection
+PIR Sensor,AM363,Motion Detection,10,120,5,60,Surface Mount,28x22,500,Long Range, Security and Automation
+PIR Sensor,GP2Y0A41SK0F,Motion Detection,10,80,4.5-5.5,25,Surface Mount,29x20,300,High Precision, Motion and Distance Measurement
+PIR Sensor,SHD-03,Motion Detection,8,110,5,40,Surface Mount,30x24,1000,Adjustable Range, Home Automation
+PIR Sensor,HY-SRF05,Motion Detection,12,120,5,30,Surface Mount,40x25,500,High Range, Security Systems

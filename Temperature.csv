@@ -1,0 +1,33 @@
+Type,Model,Measurement Range (°C),Accuracy (°C),Voltage (V),Current Consumption (µA),Package Type,Size (mm),Response Time (s),Output Type,Features,Applications
+Thermocouple,K-Type,-200 to 1350,±2,0-5,Depends on amplifier,Through-Hole,Varies,1-2,mV,Wide Range,High Temperature Measurement
+RTD,PT100,-200 to 850,±0.15,0-5,Depends on circuitry,Surface Mount/Through-Hole,Varies,10,Resistance,High Precision,Industrial Applications
+Thermistor,NTC,-55 to 125,±0.5,3.3-5,10-50,Surface Mount/Through-Hole,Varies,1,Resistance,Low Cost,General Purpose
+Digital Temperature Sensor,DS18B20,-55 to 125,±0.5,3-5.5,1.5,Through-Hole,5x5,1,1-Wire,Digital Output,Weather Stations
+Analog Temperature Sensor,LM35,-55 to 150,±0.5,4-30,60,Through-Hole,4x4,1,Analog Voltage,Easy Interface,HVAC Systems
+Digital Temperature Sensor,DHT11,0 to 50,±2,3-5.5,500,Through-Hole,15x12,6,Digital,Humidity Sensing,Environmental Monitoring
+Digital Temperature Sensor,DHT22,-40 to 80,±0.5,3-6,500,Through-Hole,15x12,2,Digital,High Precision,Weather Stations
+Digital Temperature Sensor,BMP280,-40 to 85,±1,1.71-3.6,3.6,Surface Mount,2.5x2.5,1,I2C/SPI,Pressure Sensing,Altitude Measurement
+Digital Temperature Sensor,BME280,-40 to 85,±1,1.8-3.6,3.6,Surface Mount,2.5x2.5,1,I2C/SPI,Humidity Sensing,Indoor Environment
+Digital Temperature Sensor,Si7021,-40 to 125,±0.4,1.9-3.6,150,Surface Mount,5x5,1,I2C,Humidity Sensing,Smart Home
+Thermocouple Amplifier,MAX6675,0 to 1024,±2,3.3-5,50,Surface Mount,4x4,0.25,SPI,Works with K-Type,High Temperature Measurement
+Infrared Temperature Sensor,MLX90614,-70 to 380,±0.5,3.6-5,1.5,Through-Hole,10x10,0.1,I2C,Non-contact,Medical Devices
+Infrared Temperature Sensor,AMG8833,0 to 80,±2.5,3.3-5,10,Surface Mount,8x8,0.1,I2C,8x8 Pixel Array,Thermal Imaging
+Digital Temperature Sensor,HTU21D,-40 to 125,±0.3,1.5-3.6,500,Surface Mount,5x5,1,I2C,Humidity Sensing,Weather Stations
+Digital Temperature Sensor,ADT7410,-40 to 150,±0.2,2.7-5.5,210,Surface Mount,4x4,0.25,I2C/SPI,High Accuracy,Industrial Controls
+Digital Temperature Sensor,MCP9808,-40 to 125,±0.25,2.7-5.5,200,Surface Mount,3x3,0.25,I2C,High Precision,Environmental Monitoring
+Digital Temperature Sensor,LMT84,-50 to 150,±0.4,1.8-5.5,5,Surface Mount,2x2,0.1,Analog Voltage,Low Power,Wearable Devices
+Digital Temperature Sensor,LM75A,-55 to 125,±2,2.7-5.5,300,Surface Mount,4x4,0.2,I2C,Digital Output,Temperature Control Systems
+Digital Temperature Sensor,Si7051,-40 to 125,±0.1,1.9-3.6,150,Surface Mount,5x5,1,I2C,High Accuracy,Precision Monitoring
+Digital Temperature Sensor,HTU31,-40 to 125,±0.2,1.8-3.6,500,Surface Mount,5x5,1,I2C,High Precision,Environmental Sensing
+Digital Temperature Sensor,LM74,-55 to 150,±0.2,2.7-5.5,300,Surface Mount,4x4,0.2,SPI,High Precision,Industrial Applications
+Digital Temperature Sensor,Si7201,-40 to 85,±0.5,1.7-3.6,230,Surface Mount,2x2,0.25,I2C,Magnetic Sensing,Smart Home
+Digital Temperature Sensor,TSYS01,-40 to 125,±0.1,2.2-3.6,12,Surface Mount,4x4,0.5,I2C/SPI,High Accuracy,Industrial Sensing
+Digital Temperature Sensor,SHT31,-40 to 125,±0.3,2.4-5.5,1500,Surface Mount,2.5x2.5,1,I2C,Humidity Sensing,Environmental Monitoring
+Digital Temperature Sensor,LM71,-55 to 150,±0.2,2.65-5.5,450,Surface Mount,4x4,0.2,SPI,High Precision,Temperature Control Systems
+Digital Temperature Sensor,HDC1080,-40 to 125,±0.2,2.7-5.5,50,Surface Mount,3x3,0.3,I2C,Humidity Sensing,Smart Thermostats
+Digital Temperature Sensor,SHTC3,-40 to 125,±0.3,1.8-3.6,150,Surface Mount,2x2,1,I2C,Low Power,Portable Devices
+Digital Temperature Sensor,ADT7320,-40 to 150,±0.1,2.7-5.5,230,Surface Mount,4x4,0.25,SPI,High Accuracy,Precision Measurement
+Digital Temperature Sensor,MLX90632,-40 to 85,±0.2,2.6-3.6,230,Surface Mount,4x4,0.5,I2C,Non-contact,Smart Home
+Digital Temperature Sensor,TSYS02,-40 to 125,±0.1,2.2-3.6,12,Surface Mount,4x4,0.5,I2C/SPI,High Accuracy,Industrial Sensing
+Digital Temperature Sensor,LMT87,-50 to 150,±0.4,1.8-5.5,5,Surface Mount,2x2,0.1,Analog Voltage,Low Power,Wearable Devices
+Digital Temperature Sensor,HDC2080,-40 to 125,±0.2,2.7-5.5,50,Surface Mount,3x3,0.3,I2C,Humidity Sensing,Smart Thermostats
