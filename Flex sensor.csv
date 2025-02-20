@@ -1,0 +1,11 @@
+Type,Model,Function,Flex Range (Degrees),Resistance Range (Ω),Voltage (V),Current Consumption (mA),Package Type,Size (mm),Response Time (ms),Features,Applications
+Flex Sensor,FSR-402,Flexible Sensor,0-180,10k-50k,5,1,Flexible Strip,15x80,100,High Flexibility, Gesture Detection
+Flex Sensor,Flexpoint 2.2",Flexible Sensor,0-60,10k-20k,3.3,0.5,Flexible Strip,25x55,200,High Sensitivity, Bend Measurement
+Flex Sensor,Interlink 402,Flexible Sensor,0-90,5k-20k,5,1,Flexible Strip,20x100,150,High Flexibility, Motion Sensing
+Flex Sensor,Adafruit Flex Sensor 2.2",Flexible Sensor,0-80,10k-50k,3.3,1,Flexible Strip,22x55,100,Easy Integration, Wearable Electronics
+Flex Sensor,Flexpoint 4.5",Flexible Sensor,0-90,5k-10k,5,1,Flexible Strip,40x115,200,Durable, Robotics
+Flex Sensor,DFRobot 4.5",Flexible Sensor,0-45,10k-50k,3.3,0.5,Flexible Strip,45x100,150,Low Power, Embedded Systems
+Flex Sensor,Seeed Studio 2.2",Flexible Sensor,0-70,20k-100k,5,0.5,Flexible Strip,22x50,100,Compact Design, Interactive Projects
+Flex Sensor,Pololu 2.2",Flexible Sensor,0-90,5k-30k,3.3,0.5,Flexible Strip,20x60,150,Cost-Effective, Educational Kits
+Flex Sensor,Adafruit 4.5",Flexible Sensor,0-90,10k-50k,5,1,Flexible Strip,30x90,100,High Precision, Wearable Sensors
+Flex Sensor,SparkFun Flex Sensor 2.2",Flexible Sensor,0-90,10k-50k,3.3,1,Flexible Strip,22x60,150,Easy to Use, Robotics and IoT

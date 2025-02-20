@@ -1,0 +1,11 @@
+Type,Model,Function,Detection Range (m),Wavelength (nm),Voltage (V),Current Consumption (mA),Package Type,Size (mm),Response Time (ms),Features,Applications
+IR Sensor,TSOP1738,IR Receiver,0.5-5,38kHz,5,0.5,Surface Mount,8x8,100,Remote Control, Signal Reception
+IR Sensor,TSOP382,IR Receiver,0.5-10,38kHz,5,0.5,Surface Mount,8x8,150,High Sensitivity, Remote Controls
+IR Sensor,HC-SR501,IR Motion Sensor,0-7,940,5,60,Surface Mount,24x32,1000,Motion Detection, Security Systems
+IR Sensor,VL53L0X,Time-of-Flight Sensor,0.03-2,850-1000,2-3.6,20,Surface Mount,10x10,30,Distance Measurement, Robotics
+IR Sensor,MLX90614,IR Temperature Sensor,-70-380,Emissivity Adjusted,3.3-5,1,Surface Mount,22x22,100,Non-contact Temperature, Temperature Sensing
+IR Sensor,GP2Y0A21YK0F,IR Distance Sensor,10-80,850,4.5-5.5,30,Surface Mount,29x13,40,Distance Measurement, Object Detection
+IR Sensor,TSL2561,Digital Light Sensor,0-40k,400-700,3.3-5,0.2,Surface Mount,4x4,100,Ambient Light Measurement, Lighting Control
+IR Sensor,SHARP GP2Y0E03,IR Distance Sensor,4-30,850,4.5-5.5,30,Surface Mount,29x13,50,Short-range Distance, Obstacle Avoidance
+IR Sensor,MLX90615,IR Temperature Sensor,-40-115,Emissivity Adjusted,3.3-5,1,Surface Mount,22x22,100,High Accuracy, Temperature Measurement
+IR Sensor,ADNS-2620,IR Optical Mouse Sensor,1-8,700-900,3.3,20,Surface Mount,11x12,10,Motion Tracking, Computer Mice

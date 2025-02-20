@@ -1,0 +1,34 @@
+Type,Model,Function,Voltage (V),Current (A),Package Type,Number of Pins,Features,Applications
+Linear Regulator,LM317,Adjustable Voltage Regulator,1.25-37,1.5,TO-220,3,Adjustable Output Voltage, Power Supply Regulation
+Fixed Voltage Regulator,LM7805,Fixed 5V Voltage Regulator,5,1.5,TO-220,3,Fixed 5V Output, Power Supply Regulation
+Low Dropout Regulator,LM2940,Low Dropout Regulator,5-26,1.0,TO-220,3,Low Dropout Voltage, Power Supply Regulation
+Voltage Reference,LM4040,Precision Voltage Reference,2.5-10,1,TO-92,3,Stable Reference Voltage, Analog Circuits
+Operational Amplifier,LM358,Dual Operational Amplifier,3-35,0.7,SO-8,8,Low Noise, Signal Conditioning
+Operational Amplifier,LM324,Quad Operational Amplifier,3-30,1.0,SO-14,14,Low Power, General Analog Signal Processing
+Operational Amplifier,OPA2134,High-Performance Op-Amp,4.5-36,0.02,SO-8,8,Low Noise, Audio Applications
+Operational Amplifier,TL072,Low Noise Op-Amp,5-15,0.02,SO-8,8,Low Noise, Audio and Signal Processing
+Comparator,LM393,Voltage Comparator,2-36,0.3,SO-8,8,Low Offset Voltage, Analog Signal Processing
+Analog-to-Digital Converter,ADS1115,ADC,2-5.5,0.1,QFN-16,16,16-Bit Resolution, Sensor Interfaces
+Digital-to-Analog Converter,MAX5216,DAC,2.7-5.5,0.01,SOIC-14,14,16-Bit Resolution, Signal Generation
+Timer IC,555,Timer/Delay,4.5-15,0.2,TO-220,8,Versatile Timing, Timing and Pulse Generation
+Logic Gate,74HC00,Quad NAND Gate,2-6,0.5,SO-14,14,High-Speed CMOS Logic, Digital Logic Applications
+Memory IC,24LC256,EEPROM,1.8-5.5,0.005,SO-8,8,256Kbit Storage, Data Storage and Retrieval
+Microcontroller,ATmega328,Microcontroller,1.8-5.5,0.2,28-DIP,32,Low Power, General Embedded Applications
+Microcontroller,STM32F103,ARM Cortex-M3,2-3.6,0.3,48-LQFP,48,High Performance, Industrial and Consumer Applications
+Microcontroller,ESP32,Microcontroller with Wi-Fi/Bluetooth,2.2-3.6,0.5,QFN-38,38,Wi-Fi and Bluetooth, IoT Applications
+Bluetooth Module,HC-05,Bluetooth Serial Module,3.3-6,0.1,SO-10,10,Serial Communication, Wireless Data Transmission
+WiFi Module,ESP8266,Wi-Fi Module,3-3.6,0.5,QFN-16,16,Wi-Fi Connectivity, Internet of Things
+Transceiver,NRF24L01,Wireless Transceiver,1.9-3.6,0.01,QFN-20,20,2.4 GHz RF, Wireless Communication
+Phase-Locked Loop,LM565,PLL,5-15,0.02,TO-18,8,Frequency Synthesis, Frequency Locking
+Driver IC,ULN2803,Relay Driver,5-50,0.5,SO-16,16,High Current Driving, Relay Control
+Power MOSFET,IRF540,High-Power MOSFET,10-100,33,TO-220,3,High-Speed Switching, Power Control
+Schmitt Trigger,74LS132,Quad Schmitt Trigger,4.75-5.25,0.01,SO-14,14,Digital Signal Conditioning, Digital Interfaces
+Analog Switch,CD4051,MUX/Demux,3-15,0.2,SO-16,16,Analog Multiplexing, Signal Routing
+Voltage Regulator,LM2576,Switching Regulator,4-40,3.0,TO-220,5,Adjustable Output Voltage, Power Conversion
+Memory IC,AT24C256,EEPROM,1.8-5.5,0.005,SO-8,8,256Kbit Storage, Data Storage and Retrieval
+Microcontroller,ATtiny85,Microcontroller,1.8-5.5,0.02,SOIC-8,8,Low Power, Small Embedded Projects
+Logic Level Converter,BSS138,Level Shifter,1.8-12,0.02,TO-92,3,Level Shifting, Voltage Compatibility
+Voltage Regulator,LM1117,Low Dropout Regulator,1.25-15,1.0,TO-220,3,Fixed or Adjustable Output, Power Supply Regulation
+Operational Amplifier,LM741,General-Purpose Op-Amp,3-30,1.0,TO-99,8,Versatile Op-Amp, General Signal Processing
+Digital Signal Processor,ADSP-21369,High-Performance DSP,3.3,0.5,PBGA,208,High-Speed Processing, Audio and Communication
+Microcontroller,STM32F401RE,High-Performance MCU,2-3.6,0.3,64-LQFP,64,High-Speed Processing, Industrial Applications

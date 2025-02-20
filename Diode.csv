@@ -1,0 +1,21 @@
+Type,Model,Category,Forward Voltage (V),Forward Current (A),Reverse Voltage (V),Power Dissipation (W),Package,Dimensions (mm),Mounting Type,Applications
+Standard Diode,1N4007,Rectifier Diode,1.0,1.0,1000,1.0,DO-41,3.8x1.8,Through-Hole,General Rectification
+Standard Diode,1N4148,Signal Diode,0.7,0.1,100,0.5,DO-35,2.8x0.7,Through-Hole,High-Speed Switching
+Standard Diode,1N5819,Schottky Diode,0.2,1.0,40,0.7,DO-41,3.8x1.8,Through-Hole,Low Dropout Rectification
+Zener Diode,1N4733A,Zener Diode,0.9,1.0,5.1,1.0,DO-41,3.8x1.8,Through-Hole,Voltage Regulation
+Zener Diode,1N4728A,Zener Diode,0.9,1.0,3.3,1.0,DO-41,3.8x1.8,Through-Hole,Voltage Regulation
+Zener Diode,1N5248B,Zener Diode,0.9,1.0,12,1.0,DO-41,3.8x1.8,Through-Hole,Voltage Regulation
+Schottky Diode,SS14,Schottky Diode,0.4,0.5,40,0.5,DO-214AA,5.0x4.0,Surface Mount,Fast Switching
+Schottky Diode,SS24,Schottky Diode,0.4,2.0,40,0.7,DO-214AA,5.0x4.0,Surface Mount,Fast Switching
+Schottky Diode,MB6S,Schottky Diode,0.2,0.2,30,0.2,MS-6,2.5x2.0,Surface Mount,Low Voltage Rectification
+Rectifier Diode,1N1184R,Rectifier Diode,1.1,35,100,50,DO-201AD,10.0x6.0,Through-Hole,High Current Rectification
+Rectifier Diode,1N5402,Rectifier Diode,0.7,3.0,200,3.0,DO-201AD,10.0x6.0,Through-Hole,High Current Rectification
+Rectifier Diode,MB6S,Rectifier Diode,0.7,0.5,100,0.5,DO-214AA,5.0x4.0,Surface Mount,Medium Current Rectification
+Light Emitting Diode (LED),LED-5mm,LED,2.1,0.02,N/A,N/A,5mm,5.0x5.0,Through-Hole,Indicator Lights
+Light Emitting Diode (LED),SMD-3528,LED,3.2,0.02,N/A,N/A,3528,3.5x2.8,Surface Mount,Indicator Lights
+Laser Diode,LXHL-MB09,LED,1.8,0.05,30,N/A,TO-18,5.0x2.5,Through-Hole,Precision Lighting
+Photodiode,PDV-P9004,Photodiode,0.3,0.1,30,N/A,TO-18,5.0x2.5,Through-Hole,Light Sensing
+Photodiode,TEK-1310,Photodiode,0.3,0.1,50,N/A,TO-46,4.0x1.8,Surface Mount,Optical Communication
+Diode Bridge,KBPC5010,Bridge Rectifier,0.7,50,1000,50,KBPC,15.0x12.0,Through-Hole,AC to DC Rectification
+TVS Diode,SMAJ5.0A,TVS Diode,0.9,5.0,5.0,0.6,SMA,5.0x3.0,Surface Mount,Transient Voltage Suppression
+Varistor,VR10,Varistor,0.9,1.0,10,0.5,DO-41,3.8x1.8,Through-Hole,Overvoltage Protection

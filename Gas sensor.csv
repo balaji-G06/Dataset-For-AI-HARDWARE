@@ -1,0 +1,25 @@
+Type,Model,Gas Detected,Detection Range,Accuracy,Voltage (V),Current Consumption (mA),Package Type,Size (mm),Response Time (s),Output Type,Features,Applications
+Electrochemical,MQ-2,LPG, Methane, Smoke,300-10000 ppm,±5%,5,150,Through-Hole,32x22,10,Analog,Low Cost,Home Safety
+Electrochemical,MQ-3,Alcohol, Ethanol,100-1000 ppm,±5%,5,150,Through-Hole,32x22,10,Analog,Low Cost,Breathalyzer
+Electrochemical,MQ-4,Methane, CNG,200-10000 ppm,±5%,5,150,Through-Hole,32x22,10,Analog,Low Cost,Gas Leakage Detection
+Electrochemical,MQ-5,LPG, Natural Gas, Hydrogen,200-10000 ppm,±5%,5,150,Through-Hole,32x22,10,Analog,Low Cost,Gas Leakage Detection
+Electrochemical,MQ-6,LPG,200-10000 ppm,±5%,5,150,Through-Hole,32x22,10,Analog,Low Cost,Home Safety
+Electrochemical,MQ-7,Carbon Monoxide,20-2000 ppm,±5%,5,150,Through-Hole,32x22,10,Analog,Low Cost,CO Detection
+Electrochemical,MQ-8,Hydrogen,100-10000 ppm,±5%,5,150,Through-Hole,32x22,10,Analog,Low Cost,Hydrogen Detection
+Electrochemical,MQ-9,Carbon Monoxide, Methane,10-1000 ppm CO, 100-10000 ppm Methane,±5%,5,150,Through-Hole,32x22,10,Analog,Low Cost,Gas Leakage Detection
+Electrochemical,MQ-135,Air Quality,10-1000 ppm NH3, Alcohol, Toluene,±5%,5,150,Through-Hole,32x22,10,Analog,Low Cost,Air Quality Monitoring
+Metal Oxide,MiCS-5524,Carbon Monoxide, Methane, Ammonia,1-1000 ppm,±10%,5,35,Surface Mount,5x5,30,Analog,Compact Size,Indoor Air Quality
+Metal Oxide,MiCS-5525,Carbon Monoxide, Methane, Ammonia,1-1000 ppm,±10%,5,35,Surface Mount,5x5,30,Analog,Compact Size,Indoor Air Quality
+Infrared,NDIR-400,Carbon Dioxide,0-5000 ppm,±3%,4.5-5.5,50,Through-Hole,32x22,60,Digital,High Accuracy,Greenhouse Monitoring
+Infrared,NDIR-500,Carbon Dioxide,0-10000 ppm,±3%,4.5-5.5,50,Through-Hole,32x22,60,Digital,High Accuracy,Greenhouse Monitoring
+Photoionization,PID-AH,Volatile Organic Compounds (VOCs),0-2000 ppm,±5%,3.3-5,10,Through-Hole,20x20,3,Analog,High Sensitivity,Industrial Safety
+Semiconductor,TGS-2600,Air Quality,1-10 ppm H2, CH4, ISO-Butane,±10%,5,42,Through-Hole,12x10,30,Analog,Long Life,Air Quality Monitoring
+Semiconductor,TGS-2611,Methane,300-10000 ppm,±10%,5,42,Through-Hole,12x10,30,Analog,Long Life,Gas Leakage Detection
+Semiconductor,TGS-2620,Alcohol, Solvent Vapors,50-5000 ppm,±10%,5,42,Through-Hole,12x10,30,Analog,Long Life,Breathalyzer
+Semiconductor,TGS-813,LPG, Butane, Methane,200-10000 ppm,±10%,5,42,Through-Hole,12x10,30,Analog,Long Life,Gas Leakage Detection
+Semiconductor,CCS811,Total Volatile Organic Compounds (TVOCs), Equivalent CO2 (eCO2),400-8192 ppm eCO2, 0-1187 ppb TVOC,±15%,1.8-3.6,20,Surface Mount,2.7x2.7,1,I2C,Low Power,Indoor Air Quality
+Semiconductor,BME680,Gas (VOC, eCO2), Humidity, Temperature, Pressure,0-500 ppm VOC, ±10%,1.8-3.6,15,Surface Mount,3x3,1,I2C/SPI,Integrated Sensors,Indoor Air Quality
+Semiconductor,SGP30,VOCs, eCO2,400-60000 ppm eCO2, 0-1000 ppb VOC,±15%,1.8-5.5,48,Surface Mount,2.45x2.45,1,I2C,Low Power,Indoor Air Quality
+Semiconductor,GM-702B,Carbon Monoxide,0-1000 ppm,±10%,5,35,Surface Mount,18x18,30,Analog,Long Life,Gas Detection
+Semiconductor,MICS-5521,Carbon Monoxide, Methane,1-1000 ppm,±10%,5,42,Through-Hole,12x10,30,Analog,Long Life,Indoor Air Quality
+Semiconductor,ZMOD4410,Total Volatile Organic Compounds (TVOCs),0-1000 ppb,±10%,1.7-3.6,29,Surface Mount,3x3,1,I2C,Low Power,Indoor Air Quality

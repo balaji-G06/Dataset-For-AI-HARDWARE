@@ -1,0 +1,21 @@
+Type,Model,Operating Voltage (V),Operating Frequency (Hz),Sound Pressure Level (dB),Current Consumption (mA),Dimensions (mm),Mounting Type,Resonant Frequency (Hz),Tone Type,Applications
+Piezoelectric Buzzer,PS1240P02BT,3-24,4000,85,9,12.0x4.0,Through-Hole,4000,Continuous,Alarm Systems
+Piezoelectric Buzzer,ABT-402-RC,1-20,4000,95,5,9.0x5.0,Surface Mount,4000,Continuous,Portable Devices
+Piezoelectric Buzzer,KPEG170,1-30,3200,95,6,17.0x17.0,Through-Hole,3200,Continuous,General Purpose
+Piezoelectric Buzzer,SMB-12D07,3-30,2500,90,7,12.0x7.0,Through-Hole,2500,Intermittent,Medical Devices
+Magnetic Buzzer,KPEG170A,1-25,2300,90,10,17.0x17.0,Through-Hole,2300,Continuous,Home Appliances
+Electromagnetic Buzzer,CI22A,1-15,2048,85,5,22.0x22.0,Panel Mount,2048,Continuous,Alarm Systems
+Electromechanical Buzzer,KPE-267,3-24,3500,92,7,26.0x26.0,Through-Hole,3500,Continuous,Industrial Equipment
+Electromagnetic Buzzer,KPEG0902,1-12,2700,88,8,9.0x2.0,Through-Hole,2700,Intermittent,Portable Devices
+Electromechanical Buzzer,PKM22EPPH2001,3-24,4000,90,12,22.0x10.0,Through-Hole,4000,Continuous,Consumer Electronics
+Electromagnetic Buzzer,PPS0805WA,2-6,2300,85,4,8.0x5.0,Surface Mount,2300,Intermittent,General Purpose
+Piezoelectric Buzzer,PKM13EPYH2000,3-24,4500,94,5,13.0x7.0,Through-Hole,4500,Continuous,Alarm Systems
+Electromagnetic Buzzer,ST-07F,1-15,2700,89,6,7.0x7.0,Through-Hole,2700,Intermittent,Portable Devices
+Piezoelectric Buzzer,AB-12B-7,2-30,3500,90,8,12.0x12.0,Panel Mount,3500,Continuous,Medical Devices
+Magnetic Buzzer,CKP2020,2-20,2000,85,5,20.0x20.0,Surface Mount,2000,Continuous,Home Appliances
+Electromagnetic Buzzer,KPEG170D,3-12,2048,85,5,17.0x17.0,Through-Hole,2048,Continuous,General Purpose
+Electromechanical Buzzer,PKLCS1212E4001-R1,1-20,2300,85,5,12.0x12.0,Surface Mount,2300,Intermittent,Portable Devices
+Piezoelectric Buzzer,KPS210,3-24,2700,92,7,21.0x21.0,Through-Hole,2700,Continuous,Consumer Electronics
+Electromechanical Buzzer,PKM13EPH4000-R1,2-24,4000,90,12,13.0x13.0,Through-Hole,4000,Continuous,Industrial Equipment
+Magnetic Buzzer,SD-12R,1-12,2700,89,6,12.0x12.0,Through-Hole,2700,Intermittent,General Purpose
+Piezoelectric Buzzer,KPEG90A,2-6,4000,90,6,9.0x9.0,Surface Mount,4000,Continuous,Home Appliances

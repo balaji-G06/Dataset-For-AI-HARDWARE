@@ -1,0 +1,27 @@
+
+Type,Model,Color,Wavelength (nm),Forward Voltage (V),Forward Current (mA),Luminous Intensity (mcd),Viewing Angle (degrees),Package,Dimensions (mm),Mounting Type,Interface,Applications
+Standard LED,HLMP-1790,Red,635,2.1,20,800,60,5mm,5.0x5.0,Through-Hole,N/A,General Indication
+Standard LED,HLMP-1790-G00B2,Green,525,2.2,20,400,60,5mm,5.0x5.0,Through-Hole,N/A,General Indication
+Standard LED,HLMP-1790-B00C1,Blue,470,3.3,20,200,60,5mm,5.0x5.0,Through-Hole,N/A,General Indication
+Standard LED,HLMP-1790-Y00B2,Yellow,590,2.1,20,600,60,5mm,5.0x5.0,Through-Hole,N/A,General Indication
+SMD LED,PLCC2-2012,R/G/B,Red: 625, Green: 525, Blue: 470,Red: 2.1, Green: 3.0, Blue: 3.2,20,Red: 800, Green: 500, Blue: 300,120,PLCC2,2.0x1.2,Surface Mount,N/A,Compact Indication
+SMD LED,PLCC4-3528,R/G/B,Red: 625, Green: 525, Blue: 470,Red: 2.1, Green: 3.0, Blue: 3.2,20,Red: 1200, Green: 800, Blue: 500,120,PLCC4,3.5x2.8,Surface Mount,N/A,Compact Indication
+7-Segment Display,SC56-11SRWA,Red,635,2.1,20,1500,90,Through-Hole,10.0x7.6,Through-Hole,N/A,Numerical Display
+7-Segment Display,SC56-11YWA,Yellow,590,2.0,20,1300,90,Through-Hole,10.0x7.6,Through-Hole,N/A,Numerical Display
+7-Segment Display,SC56-11GWA,Green,525,2.2,20,1200,90,Through-Hole,10.0x7.6,Through-Hole,N/A,Numerical Display
+7-Segment Display,SC56-11BWA,Blue,470,3.3,20,1000,90,Through-Hole,10.0x7.6,Through-Hole,N/A,Numerical Display
+OLED Display,SSD1306,White,N/A,3.3-5,20,N/A,160,Surface Mount,32.0x32.0,Surface Mount,I2C,Text/Graphic Display
+OLED Display,SSD1306,Blue,N/A,3.3-5,20,N/A,160,Surface Mount,32.0x32.0,Surface Mount,I2C,Text/Graphic Display
+OLED Display,SSD1306,Yellow,N/A,3.3-5,20,N/A,160,Surface Mount,32.0x32.0,Surface Mount,I2C,Text/Graphic Display
+OLED Display,SSD1306,Green,N/A,3.3-5,20,N/A,160,Surface Mount,32.0x32.0,Surface Mount,I2C,Text/Graphic Display
+LCD Display,1602A,White on Blue,N/A,4.5-5.5,1,N/A,N/A,Through-Hole,80.0x36.0,Through-Hole,N/A,Text Display
+LCD Display,2004A,White on Blue,N/A,4.5-5.5,1,N/A,N/A,Through-Hole,98.0x60.0,Through-Hole,N/A,Text Display
+I2C LCD Display,16x2 I2C,N/A,4.5-5.5,1,N/A,N/A,Through-Hole,80.0x36.0,Through-Hole,I2C,Text Display
+I2C LCD Display,20x4 I2C,N/A,4.5-5.5,1,N/A,N/A,Through-Hole,98.0x60.0,Through-Hole,I2C,Text Display
+LED Matrix,MAX7219,Red,635,5,40,800,160,8x8 Matrix,32.0x32.0,Through-Hole,N/A,Graphic Display
+LED Matrix,MAX7219,Green,525,5,40,500,160,8x8 Matrix,32.0x32.0,Through-Hole,N/A,Graphic Display
+LED Matrix,MAX7219,Blue,470,5,40,300,160,8x8 Matrix,32.0x32.0,Through-Hole,N/A,Graphic Display
+LED Matrix,MAX7219,Yellow,590,5,40,600,160,8x8 Matrix,32.0x32.0,Through-Hole,N/A,Graphic Display
+RGB LED,WS2812B,Full RGB,N/A,5,20,N/A,120,5050,5.0x5.0,Surface Mount,Digital Control,Color Lighting
+RGB LED,SK6812,Full RGB,N/A,5,20,N/A,120,5050,5.0x5.0,Surface Mount,Digital Control,Color Lighting
+RGB LED,APA102,Full RGB,N/A,5,20,N/A,120,5050,5.0x5.0,Surface Mount,Digital Control,Color Lighting

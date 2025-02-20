@@ -1,0 +1,35 @@
+LED Type,Color,Wavelength (nm),Forward Voltage (V),Forward Current (mA),Luminous Intensity (mcd),Viewing Angle (degrees),Package Type,Material Composition,Mounting Type
+Standard LED,Red,625,2.0,20,300,30,5mm,GaAsP,Through-Hole
+Standard LED,Green,525,2.2,20,500,30,5mm,GaP,Through-Hole
+Standard LED,Blue,470,3.2,20,800,30,5mm,GaN,Through-Hole
+Standard LED,Yellow,590,2.1,20,400,30,5mm,GaAsP,Through-Hole
+Standard LED,White,N/A,3.0,20,2000,30,5mm,InGaN,Through-Hole
+Standard LED,Orange,605,2.0,20,500,30,5mm,GaAsP,Through-Hole
+SMD LED,Red,625,2.0,20,150,120,0603,GaAsP,Surface-Mount
+SMD LED,Green,525,2.2,20,200,120,0603,GaP,Surface-Mount
+SMD LED,Blue,470,3.2,20,300,120,0603,GaN,Surface-Mount
+SMD LED,Yellow,590,2.1,20,150,120,0603,GaAsP,Surface-Mount
+SMD LED,White,N/A,3.0,20,1000,120,0603,InGaN,Surface-Mount
+High Power LED,Red,625,2.0,350,7000,120,1W,GaAsP,Surface-Mount
+High Power LED,Green,525,2.2,350,10000,120,1W,GaP,Surface-Mount
+High Power LED,Blue,470,3.2,350,15000,120,1W,GaN,Surface-Mount
+High Power LED,White,N/A,3.0,350,30000,120,1W,InGaN,Surface-Mount
+RGB LED,Red,625,2.0,20,300,120,5mm,GaAsP,Through-Hole
+RGB LED,Green,525,2.2,20,500,120,5mm,GaP,Through-Hole
+RGB LED,Blue,470,3.2,20,800,120,5mm,GaN,Through-Hole
+Infrared LED,Infrared,940,1.5,50,800,30,5mm,GaAlAs,Through-Hole
+UV LED,UV,365,3.6,20,500,120,5mm,InGaN,Through-Hole
+Bi-color LED,Red/Green,625/525,2.0/2.2,20/20,300/500,30,5mm,GaAsP/GaP,Through-Hole
+Tri-color LED,Red/Green/Blue,625/525/470,2.0/2.2/3.2,20/20/20,300/500/800,30,5mm,GaAsP/GaP/GaN,Through-Hole
+Flashing LED,Red,625,2.0,20,300,30,5mm,GaAsP,Through-Hole
+LED Bar,Red,625,2.0,20,200,60,Bar,GaAsP,Through-Hole
+LED Display,Red,625,2.0,20,150,N/A,Display,GaAsP,Through-Hole
+LED Matrix,Red,625,2.0,20,100,N/A,Matrix,GaAsP,Through-Hole
+LED Strip,RGB,625/525/470,12.0,60,1000,120,Strip,GaAsP/GaP/GaN,Surface-Mount
+COB LED,White,N/A,3.0,1500,200000,120,COB,InGaN,Surface-Mount
+Filament LED,White,N/A,3.0,20,3000,360,Filament,InGaN,Through-Hole
+Miniature LED,Red,625,2.0,2,50,30,3mm,GaAsP,Through-Hole
+Miniature LED,Green,525,2.2,2,70,30,3mm,GaP,Through-Hole
+Miniature LED,Blue,470,3.2,2,100,30,3mm,GaN,Through-Hole
+Miniature LED,Yellow,590,2.1,2,60,30,3mm,GaAsP,Through-Hole
+Miniature LED,White,N/A,3.0,2,500,30,3mm,InGaN,Through-Hole

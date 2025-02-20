@@ -1,0 +1,18 @@
+Model,Chipset,Type,Frequency Bands (MHz),Interface,Power Supply (V),Power Consumption (mA),Data Rate (kbps),Dimensions (mm),Mounting Type,Applications
+SIM800L,SIMCOM,GSM/GPRS,850/900/1800/1900,UART,3.4-4.4,20,85,25x23,Surface Mount,Communication, Remote Monitoring
+SIM900,SIMCOM,GSM/GPRS,850/900/1800/1900,UART,3.4-4.4,20,85,25x23,Surface Mount,Text Messaging, IoT
+SIM7000,SIMCOM,GSM/GPRS/LTE,850/900/1800/1900/2100,UART,3.4-4.4,20,300,30x30,Surface Mount,High-Speed Data Transfer
+S6M,Samsung,GSM/GPRS,850/900/1800/1900,UART,3.4-4.4,50,85,23x23,Surface Mount,Machine-to-Machine (M2M)
+Quectel M95,Quectel,GSM/GPRS,850/900/1800/1900,UART,3.4-4.4,20,85,22x22,Surface Mount,Low Power Communication
+Quectel M66,Quectel,GSM/GPRS,850/900/1800/1900,UART,3.4-4.4,20,85,23x23,Surface Mount,Cost-Effective IoT Solutions
+Telit GL865,Telit,GSM/GPRS,850/900/1800/1900,UART,3.4-4.4,30,85,30x30,Surface Mount,Automotive, Industrial Applications
+U-Blox SARA-G350,u-blox,GSM/GPRS,850/900/1800/1900,UART,3.3-4.2,20,85,28x28,Surface Mount,Global IoT Applications
+GSM Module V2,Generic,GSM/GPRS,850/900/1800/1900,UART,3.4-4.4,25,85,20x20,Through-Hole,Prototyping, Embedded Projects
+A6 GSM Module,Wavecom,GSM/GPRS,850/900/1800/1900,UART,3.4-4.4,20,85,30x30,Surface Mount,Communication, Text Messaging
+GPRS Shield v2.0,Seeed Studio,GSM/GPRS,850/900/1800/1900,UART,5.0,50,85,68x53,Through-Hole,Arduino Projects, IoT Solutions
+SIM808,SIMCOM,GSM/GPRS/GPS,850/900/1800/1900,UART,3.4-4.4,20,85,25x25,Surface Mount,IoT, GPS Tracking
+SIM5320,SIMCOM,GSM/GPRS/3G,850/900/1800/1900/2100,UART,3.4-4.4,80,384,35x35,Surface Mount,3G Communication
+GSM/GPRS Module V3,Generic,GSM/GPRS,850/900/1800/1900,UART,3.4-4.4,25,85,22x22,Surface Mount,Embedded Projects
+AT GSM Module,Atmel,GSM/GPRS,850/900/1800/1900,UART,3.4-4.4,30,85,30x30,Surface Mount,Industrial Applications
+Telit GE865,Telit,GSM/GPRS,850/900/1800/1900,UART,3.4-4.4,30,85,30x30,Surface Mount,Remote Monitoring, M2M
+Sierra Wireless GX440,Sierra Wireless,GSM/GPRS/3G,850/900/1800/1900/2100,UART,9-32,50,150,80x60,Surface Mount,Industrial IoT

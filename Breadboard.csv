@@ -1,0 +1,13 @@
+Type,Model,Size (mm),Breadboard Rows,Columns,Power Rails,Color,Features,Applications
+Full-Size Breadboard,MB102,830x560,63,66,2,White,Large prototyping area with two power rails,General Prototyping
+Half-Size Breadboard,MB102,400x560,30,33,2,White,Compact version of the full-size breadboard,Compact Prototyping
+Mini Breadboard,BB830,170x45,17,30,2,White,Small and portable,Ideal for compact projects
+Breadboard with Power Supply,MB102,830x560,63,66,2,White,Includes built-in power supply,Convenient for projects requiring power
+Solderless Breadboard,400 Tie Points,170x90,17,30,2,White,Commonly used for small to medium-sized projects,General Prototyping
+Solderless Breadboard,800 Tie Points,175x95,40,60,2,White,Provides more space for larger projects,General Prototyping
+Double-Sided Breadboard,BB-400,170x90,17,30,2,White,Allows for prototyping on both sides,Complex Prototyping
+Compact Breadboard,BB-500,120x85,13,24,2,White,Small size, ideal for very compact designs,Small Projects
+Power Breadboard,BB-830-P,830x560,63,66,2,White,Integrated with dual power rails for easier connections,General Prototyping
+Flexible Breadboard,FBB-200,150x80,10,25,2,White,Flexible and can be bent to fit different shapes,Special Applications
+Breadboard with LED Indicators,BB-400-LED,170x90,17,30,2,White,Includes LED indicators for power and connections,Debugging and Development
+Breadboard with Bus Strip,MB102-BS,830x560,63,66,2,White,Includes additional bus strips for power management,Enhanced Prototyping

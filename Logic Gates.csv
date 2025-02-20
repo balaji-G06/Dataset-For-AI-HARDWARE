@@ -1,0 +1,19 @@
+Type,Model,Function,Voltage (V),Current (A),Package Type,Number of Pins,Features,Applications
+NAND Gate,74HC00,Quad 2-input NAND Gate,2-6,0.5,SO-14,14,High-Speed CMOS Logic, Digital Logic Applications
+NAND Gate,74LS00,Quad 2-input NAND Gate,4.75-5.25,0.4,SO-14,14,Low-Power TTL Logic, Digital Logic Applications
+NOR Gate,74HC02,Quad 2-input NOR Gate,2-6,0.5,SO-14,14,High-Speed CMOS Logic, Digital Logic Applications
+NOR Gate,74LS02,Quad 2-input NOR Gate,4.75-5.25,0.4,SO-14,14,Low-Power TTL Logic, Digital Logic Applications
+AND Gate,74HC08,Quad 2-input AND Gate,2-6,0.5,SO-14,14,High-Speed CMOS Logic, Digital Logic Applications
+AND Gate,74LS08,Quad 2-input AND Gate,4.75-5.25,0.4,SO-14,14,Low-Power TTL Logic, Digital Logic Applications
+OR Gate,74HC32,Quad 2-input OR Gate,2-6,0.5,SO-14,14,High-Speed CMOS Logic, Digital Logic Applications
+OR Gate,74LS32,Quad 2-input OR Gate,4.75-5.25,0.4,SO-14,14,Low-Power TTL Logic, Digital Logic Applications
+XOR Gate,74HC86,Quad 2-input XOR Gate,2-6,0.5,SO-14,14,High-Speed CMOS Logic, Digital Logic Applications
+XOR Gate,74LS86,Quad 2-input XOR Gate,4.75-5.25,0.4,SO-14,14,Low-Power TTL Logic, Digital Logic Applications
+XNOR Gate,74HC266,Quad 2-input XNOR Gate,2-6,0.5,SO-14,14,High-Speed CMOS Logic, Digital Logic Applications
+XNOR Gate,74LS266,Quad 2-input XNOR Gate,4.75-5.25,0.4,SO-14,14,Low-Power TTL Logic, Digital Logic Applications
+Buffer,74HC04,Hex Inverter Buffer,2-6,0.5,SO-14,14,High-Speed CMOS Logic, Signal Conditioning
+Buffer,74LS04,Hex Inverter Buffer,4.75-5.25,0.4,SO-14,14,Low-Power TTL Logic, Signal Conditioning
+Inverter,74HC14,Hex Inverter,2-6,0.5,SO-14,14,High-Speed CMOS Logic, Signal Inversion
+Inverter,74LS14,Hex Inverter,4.75-5.25,0.4,SO-14,14,Low-Power TTL Logic, Signal Inversion
+Schmitt Trigger,74HC132,Quad Schmitt Trigger NAND Gate,2-6,0.5,SO-14,14,High-Speed CMOS Logic, Signal Conditioning
+Schmitt Trigger,74LS132,Quad Schmitt Trigger NAND Gate,4.75-5.25,0.4,SO-14,14,Low-Power TTL Logic, Signal Conditioning

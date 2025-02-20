@@ -1,0 +1,11 @@
+Type,Model,Function,Light Range (Lux),Voltage (V),Current Consumption (mA),Package Type,Size (mm),Response Time (ms),Features,Applications
+Ambient Light Sensor,TSL2561,Digital Light Sensor,0-40k,3.3-5,0.2,Surface Mount,4x4,100,High Accuracy, General Lighting Measurement
+Ambient Light Sensor,TSL2591,Digital Light Sensor,0-88k,3.3-5,0.2,Surface Mount,5x3,100,Wide Range, High Precision Light Sensing
+Ambient Light Sensor,APDS-9960,Digital Sensor,0-10k,2.4-3.6,0.25,Surface Mount,4x2,50,Color and Gesture Sensing, Interactive Applications
+Ambient Light Sensor,LTR-559,Digital Light Sensor,0-64k,2.7-3.6,0.2,Surface Mount,3x5,100,High Dynamic Range, Ambient Light Detection
+Ambient Light Sensor,MAX44009,Digital Light Sensor,0.045-188k,1.8-3.6,0.3,Surface Mount,2x3,50,Low Power, High Sensitivity
+Ambient Light Sensor,SI1145,Digital Light Sensor,0-65k,2.0-3.6,0.1,Surface Mount,3x3,50,Low Power Consumption, UV and Ambient Light Measurement
+Ambient Light Sensor,ISL29125,Digital Light Sensor,0-100k,2.7-3.6,0.5,Surface Mount,3x5,100,High Sensitivity, High Light Intensity Detection
+Ambient Light Sensor,VCNL4010,Digital Light Sensor,0-60k,3.0-5.5,0.2,Surface Mount,5x3,100,Integrated Proximity Sensor, Light and Proximity Sensing
+Ambient Light Sensor,OPT3001,Digital Light Sensor,0.01-83k,1.7-3.6,0.2,Surface Mount,3x3,100,High Accuracy, Low Light Detection
+Ambient Light Sensor,TSL3701,Analog Light Sensor,0-50k,3.3-5,0.5,Through Hole,5x5,200,Analog Output, General Light Sensing

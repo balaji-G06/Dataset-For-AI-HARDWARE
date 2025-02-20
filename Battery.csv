@@ -1,0 +1,26 @@
+Type,Model,Voltage (V),Capacity (mAh),Chemistry,Size (mm),Weight (g),Dimensions (mm),Max Discharge Current (A),Max Charge Current (A),Rechargeable,Applications
+Alkaline Battery,AA,1.5,2000,Alkaline,14x50,23,14x50,1.5,Not Applicable,No,General Purpose
+Alkaline Battery,AAA,1.5,1000,Alkaline,10x44,11,10x44,0.8,Not Applicable,No,General Purpose
+Alkaline Battery,9V,9,600,Alkaline,26x48x17,45,26x48x17,0.5,Not Applicable,No,General Purpose
+Lithium Coin Cell,CR2032,3,225,Lithium,20x3.2,3,20x3.2,0.2,Not Applicable,Yes,Small Electronics
+Lithium Coin Cell,CR2025,3,170,Lithium,20x2.5,2.5,20x2.5,0.2,Not Applicable,Yes,Compact Electronics
+Lithium Coin Cell,CR2016,3,90,Lithium,20x1.6,1.6,20x1.6,0.2,Not Applicable,Yes,Very Compact Electronics
+Lithium-Ion Battery,18650,3.7,2500,Lithium-Ion,18x65,45,18x65,5,2,Yes,High-Drain Applications
+Lithium-Ion Battery,14500,3.7,800,Lithium-Ion,14x50,27,14x50,2,1,Yes,Compact High-Drain Applications
+Lithium-Ion Battery,26650,3.7,5000,Lithium-Ion,26x65,75,26x65,10,3,Yes,High-Capacity Applications
+Lithium-Polymer Battery,LiPo 1500mAh,3.7,1500,Lithium-Polymer,30x60x5,25,30x60x5,5,1,Yes,Compact and Lightweight
+Lithium-Polymer Battery,LiPo 2200mAh,3.7,2200,Lithium-Polymer,35x70x8,40,35x70x8,10,2,Yes,High-Capacity Compact Applications
+Nickel-Metal Hydride (NiMH) Battery,AA NiMH,1.2,2500,NiMH,14x50,30,14x50,2,1.5,Yes,Rechargeable General Purpose
+Nickel-Metal Hydride (NiMH) Battery,AAA NiMH,1.2,1000,NiMH,10x44,15,10x44,1.5,1,Yes,Rechargeable General Purpose
+Nickel-Cadmium (NiCd) Battery,AA NiCd,1.2,1000,NiCd,14x50,30,14x50,1.5,1,Yes,Rechargeable General Purpose
+Nickel-Cadmium (NiCd) Battery,AAA NiCd,1.2,600,NiCd,10x44,15,10x44,1,1,Yes,Rechargeable General Purpose
+Zinc-Carbon Battery,AA,1.5,1200,Zinc-Carbon,14x50,23,14x50,1,Not Applicable,No,Low-Cost Applications
+Zinc-Carbon Battery,AAA,1.5,600,Zinc-Carbon,10x44,11,10x44,0.8,Not Applicable,No,Low-Cost Applications
+Rechargeable Alkaline Battery,AA Rechargeable,1.5,1300,Rechargeable Alkaline,14x50,25,14x50,1.5,Not Applicable,Yes,Rechargeable General Purpose
+CR123A Lithium Battery,CR123A,3,1500,Lithium,17x34,17,17x34,3,Not Applicable,No,High-Performance Electronics
+CR2 Lithium Battery,CR2,3,800,Lithium,15x27,12,15x27,1.5,Not Applicable,No,Compact High-Power Electronics
+AA Lithium Battery,AA Lithium,1.5,3000,Lithium,14x50,16,14x50,1.5,Not Applicable,No,Extended-Life Applications
+Li-Ion 26650,26650,3.7,5000,Lithium-Ion,26x65,75,26x65,10,3,Yes,High-Capacity Applications
+Li-Ion 18650,18650,3.7,3000,Lithium-Ion,18x65,48,18x65,6,2,Yes,High-Power Applications
+CR2032 Lithium Battery,CR2032,3,225,Lithium,20x3.2,3,20x3.2,0.2,Not Applicable,Yes,Compact Electronics
+AA NiMH Rechargeable Battery,AA NiMH,1.2,2500,NiMH,14x50,30,14x50,2,1.5,Yes,Rechargeable General Purpose

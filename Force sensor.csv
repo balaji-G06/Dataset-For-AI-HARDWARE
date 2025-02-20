@@ -1,0 +1,11 @@
+Type,Model,Function,Force Range (N),Voltage (V),Current Consumption (mA),Package Type,Size (mm),Response Time (ms),Features,Applications
+Force Sensor,FZ-J01,Force Sensing Resistor,0-10,3-5,1,Flexible Strip,20x10,100,Flexible, Load Measurement
+Force Sensor,FSR-400,Force Sensing Resistor,0-100,4.5-5.5,1,Flexible Strip,30x15,200,High Sensitivity, Pressure Sensing
+Force Sensor,FSR-402,Force Sensing Resistor,0-10k,4.5-5.5,1,Flexible Strip,40x10,150,Wide Range, Touch Detection
+Force Sensor,Interlink 402,Force Sensing Resistor,0-100,5,1,Flexible Strip,35x15,150,High Flexibility, Impact Detection
+Force Sensor,FlexiForce A201,Force Sensor,0-450,5-10,1,Flexible Disk,25x25,50,High Precision, Force Measurement
+Force Sensor,AT42QT1070,Capacitive Force Sensor,0-20,3.3,0.5,Surface Mount,12x12,200,Capacitive Touch, Human-Machine Interface
+Force Sensor,Load Cell,LC101,Load Cell,0-500,5,5,Surface Mount,50x50,100,High Accuracy, Weighing Scales
+Force Sensor,TE Connectivity 102,Load Cell,0-200,5,5,Surface Mount,40x40,100,High Capacity, Industrial Applications
+Force Sensor,Transducer Techniques FDS-25,Force Sensor,0-25,5,5,Surface Mount,25x25,200,Compact Design, Light Load Measurement
+Force Sensor,Honeywell FSS-SMT,Force Sensor,0-50,5,5,Surface Mount,30x30,100,Durable, Light Force Measurement

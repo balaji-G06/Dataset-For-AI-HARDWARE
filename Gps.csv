@@ -1,0 +1,13 @@
+Model,Receiver Chip,Type,Frequency (GHz),Accuracy (meters),Update Rate (Hz),Interface,Power Supply (V),Power Consumption (mA),Package,Dimensions (mm),Mounting Type,Applications
+NEO-6M,u-blox,Standard GPS,1.575,2.5,10,UART/USB,3.3-5.0,50,Module,25x25,Surface Mount,Navigation, Tracking
+NEO-M8N,u-blox,Standard GPS,1.575,2.5,10,UART/I2C,3.3-5.0,35,Module,25x25,Surface Mount,High-Precision Navigation
+GPS-GM1,GlobalSat,Standard GPS,1.575,2.5,1,UART,3.3-5.0,45,Module,35x35,Surface Mount,Automotive Tracking
+MTK3339,MediaTek,Standard GPS,1.575,2.5,10,UART,3.3-5.0,20,Module,23x23,Surface Mount,Navigation, Tracking
+GPS-10,Adafruit,Standard GPS,1.575,2.5,1,UART,3.3-5.0,20,Module,17x17,Through-Hole,Embedded Systems
+u-blox M8N,u-blox,Standard GPS,1.575,2.5,10,UART/I2C,3.3-5.0,40,Module,16x16,Surface Mount,High-Accuracy Positioning
+GMS-PA-1,GlobalSat,Standard GPS,1.575,2.5,10,UART,3.3-5.0,30,Module,30x30,Surface Mount,Personal Navigation
+LS20031,LAIRD,Standard GPS,1.575,2.5,5,UART,3.3-5.0,45,Module,40x40,Surface Mount,Vehicle Tracking
+GNSS-7M,GlobalSat,Standard GNSS,1.575,2.5,5,UART/I2C,3.3-5.0,35,Module,30x30,Surface Mount,Multi-Constellation Navigation
+L76-L,LinkSprite,Standard GPS,1.575,2.5,1,UART,3.3-5.0,20,Module,20x20,Surface Mount,High-Precision Applications
+GPS-6M,DFRobot,Standard GPS,1.575,2.5,5,UART,3.3-5.0,25,Module,25x25,Surface Mount,Embedded Projects
+u-blox F9P,u-blox,High-Precision GNSS,1.575,1,20,UART/I2C,3.3-5.0,30,Module,30x30,Surface Mount,High-Precision Mapping
